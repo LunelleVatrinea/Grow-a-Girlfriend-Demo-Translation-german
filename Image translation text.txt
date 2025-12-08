@@ -1,0 +1,79 @@
+HISTORY	VERLAUF
+history	verlauf
+LOAD	LADEN
+load	laden
+OPTIONS	OPTIONEN
+options	optionen
+SAVE	SPEICHERN
+save	speichern
+SKIP	SKIP
+About	Info
+No!	Nein!
+Day	Tag
+The End	Ende
+content	inhalt
+locked	gesperrt
+gallery	galerie
+-	
+NO REFUNDS	KEINE RÜCKGABEN
+	
+-	
+	
+CONGRATULATIONS!	GLÜCKWUNSCH!
+Thank you for playing the demo!	Danke fürs spielen der Demo!
+Please consider wishlisting the full game.	Bitte ziehe in Erwägung das vollständige Spiel auf deine Wunschliste zu setzen.
+There are more mushroom girls waiting for you to grow them.	Es gibt noch weitere Pilz-Mädchen die darauf warten von dir gezüchtet zu werden.
+	
+-	
+	
+meet 'n eat	treffen & essen
+Button Starter Kit Instructions:	Champignon Starter-Set Anleitung:
+Place in a bright and well-ventilated area.	An einer hellen und gut-durchlüfteten Stelle platzieren.
+Spray water on exposed surface twice per day.	Wasser zwei mal am Tag auf freie Oberflächen sprühen.
+In 4-5 weeks you will see the first signs of growth.	In 4-5 Wochen siehst du die ersten Anzeichen von Wachstum.
+For your safety, please consume before its end of lifespan.	Für deine Sicherheit, konsumiere ihn bitte vor dem Ende seiner Lebenszeit.
+	
+-	
+	
+NEW STOCK WILL BE AVAILABLE SOON!	NEUE WARE WIRD BALD VERFÜGBAR SEIN!
+Dear loyal customer	Geehrter loyaler Kunde
+If you would like to be notifed when our latest batch of mushroom kits is available, please wishlist the full game on Steam.	Wenn du benachrichtigt werden willst wenn unsere nächste Ladung an Pilzen verfügbar ist, füge das vollständige Spiel bitte deiner Wunschliste hinzu.
+-	
+Click here	Deiner
+to	Wunschliste
+wishlist	hinzufügen
+-	
+Ooh, nearly!	Ooh, fast!
+Just one	Nur noch
+little click...	ein Klick...
+	
+-	
+	
+Shop	Shop
+	
+Meet'neat™ is not resposible for injury, financial loss or harm...	Treffen&essen™ ist nicht verantwortlich für Verletzungen, finanzieller Verlust oder sonstige Schäden...
+Warning: Do NOT discuss death with mushroom. This may cause a...	Warnung: Rede NICHT über Tod mit dem Pilz. Das könnte zu einer...
+	
+OUT OF STOCK	AUSVERKAUFT
+	
+-	
+	
+About	Info
+	
+Horny? Bored? Lonely? Depressed? Hungry?	Geil? Gelangweilt? Einsam? Depressiv? Hungrig?
+We have all your needs covered!	Wir decken all deine Bedürfnisse ab!
+	
+Time of germination may naturally vary from 4 - 12 weeks.	Dauer der Keimung kann von 4 - 12 Wochen variieren.
+	
+Our signature choice! A lover that will conform to all your desires!	Unsere Lieblingswahl! Ein Liebhaber der all deinen Vorlieben entspricht!
+Do whatever you please, and receive a lovely meal at the end of it!	Mach alles was du willst und bekomme am Schluss eine herzhafte Speise!
+	
+Are you a REAL man who needs a REAL woman?  Prepare for the best intimate experience of your life!	Bist du ein ECHTER Mann der eine ECHTE Frau braucht? Bereite dich auf das beste intime Erfahrung deines Lebens vor!
+You'll never find anything more dedicated to your satisfaction.	Du findest sonst nirgendwo so etwas hingebungsvolles für deine Zufriedenheit.
+It'll never want to keep its hands off you!	Es wird die Finger nicht von dir lassen könne!
+	
+Sold for research purposes only.	Verkauf nur für Forschungszwecke.
+	
+Life span: 3 days	Lebensdauer: 3 Tage
+	
+-	
