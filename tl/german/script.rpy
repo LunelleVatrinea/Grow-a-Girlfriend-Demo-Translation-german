@@ -2362,643 +2362,643 @@ translate german explain_a30dcfef:
 translate german explain_fc8b09fe:
 
     # b "I don't know... this sudden feeling of dread just came over me."
-    b "Ich weiß nicht..."
+    b "Ich weiß nicht... Dieses plötzliche Schreckensgefühl hat mich gerade überrumpelt."
 
 # game/script.rpy:1855
 translate german explain_b3fdf777:
 
     # b "What you said... will we really just... disappear? I won't be able to do anything anymore?"
-    b ""
+    b "Was du gesagt hast... Werden wir wirklich einfach... verschwinden? Ich kann dann gar nichts mehr machen?"
 
 # game/script.rpy:1857
 translate german explain_670ab928:
 
     # m "Well, what did you think was going to happen? It's natural."
-    m ""
+    m "Na, was dachtest du denn, was passieren würde? So ist das nun mal."
 
 # game/script.rpy:1859
 translate german explain_53ddc7dc:
 
     # b "I didn't..."
-    b ""
+    b "Ich hab nicht..."
 
 # game/script.rpy:1860
 translate german explain_391ee2b2:
 
     # m "Welp, sorry. I didn't mean to make you miserable."
-    m ""
+    m "Ups, tut mir leid. Ich wollte dich nicht so sehr runterziehen."
 
 # game/script.rpy:1862
 translate german explain_d33eefcf:
 
     # m "Especially when you probably won't be living for very long."
-    m ""
+    m "Besonders wenn du wahrscheinlich nicht sehr lange leben wirst."
 
 # game/script.rpy:1863
 translate german explain_5f907a0a:
 
     # m "Just stay happy and ignorant."
-    m ""
+    m "Bleib einfach glücklich und ignorant."
 
 # game/script.rpy:1865
 translate german explain_73cca4bc:
 
     # b "Maybe that's for the best."
-    b ""
+    b "Vielleicht ist das besser so."
 
 # game/script.rpy:1866
 translate german explain_850ef128_1:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1868
 translate german explain_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1870
 translate german explain_78f8aea0:
 
     # b "It's hard to stop thinking!"
-    b ""
+    b "Ich kann einfach nicht aufhören nachzudenken!"
 
 # game/script.rpy:1871
 translate german explain_d7ad6608:
 
     # b "Why am I alive?"
-    b ""
+    b "Wieso bin ich am Leben?"
 
 # game/script.rpy:1873
 translate german explain_0b0926e5:
 
     # m "Um... because I watered you?"
-    m ""
+    m "Ehm... Weil ich dich gewässert hab?"
 
 # game/script.rpy:1875
 translate german explain_3e18e670:
 
     # b "Then why did you choose me?"
-    b ""
+    b "Warum hast du dann mich ausgesucht?"
 
 # game/script.rpy:1876
 translate german explain_adfa6854:
 
     # b "Why ME?"
-    b ""
+    b "Wieso MICH?"
 
 # game/script.rpy:1886
 translate german why_choose_d6446515:
 
     # m "Well, you looked small and cute."
-    m ""
+    m "Naja, du sahst klein und süß aus."
 
 # game/script.rpy:1887
 translate german why_choose_96d08afa:
 
     # m "If I actually managed to get you to grow, I would be happy."
-    m ""
+    m "Falls ich es wirklich schaffen würde dich wachsen zu lassen, wäre ich glücklich."
 
 # game/script.rpy:1889
 translate german why_choose_8b3a2bcb:
 
     # b "So you're happy now?"
-    b ""
+    b "Also bist du jetzt glücklich?"
 
 # game/script.rpy:1891
 translate german why_choose_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1893
 translate german why_choose_5f0622c5:
 
     # m "I'm happier."
-    m ""
+    m "Ich bin glücklicher."
 
 # game/script.rpy:1895
 translate german why_choose_8092e173:
 
     # b "Then I'm happy too."
-    b ""
+    b "Dann bin ich auch glücklich."
 
 # game/script.rpy:1898
 translate german why_choose_cc6ff25e:
 
     # b "Also I got to hear you call me cute TWICE today! That's a win for sure."
-    b ""
+    b "Außerdem hast du mich heute schon ZWEIMAL niedlich genannt! Das ist definitiv ein Sieg."
 
 # game/script.rpy:1900
 translate german why_choose_af2f2be0:
 
     # b "Also you called me cute too. I'm as happy as a shroom on a log!"
-    b ""
+    b "Außerdem hast du mich auch süß genannt. Ich bin so glücklich wie ein Pilz auf’m Baumstamm!"
 
 # game/script.rpy:1902
 translate german why_choose_aeed40a2:
 
     # m "Interesting... choice of words..."
-    m ""
+    m "Interessante... Wortwahl..."
 
 # game/script.rpy:1904
 translate german why_choose_602fa659:
 
     # m "(She got distracted really quickly. That's good.)"
-    m ""
+    m "(Sie wurde wirklich schnell abgelenkt. Gut.)"
 
 # game/script.rpy:1905
 translate german why_choose_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1907
 translate german why_choose_0495076d:
 
     # b "Talking is fun. But also... I'm kinda bored."
-    b ""
+    b "Reden macht Spaß. Aber... ich bin auch etwas gelangweilt."
 
 # game/script.rpy:1908
 translate german why_choose_1200bcc0:
 
     # b "Can we do something fun? Like... explore the outside a bit and see the sunset more?"
-    b ""
+    b "Können wir was Spaßiges machen? Zum Beispiel... draußen erkunden und den Sonnenuntergang etwas mehr anschauen?"
 
 # game/script.rpy:1909
 translate german why_choose_f9b9b3ae:
 
     # b "Because this room is reeeeeeally tiny and I am getting reeeeeeally bored."
-    b ""
+    b "Dieser Raum ist nämlich wiiiiirklich winzig und mir wird wiiiiiiirklich langweilig."
 
 # game/script.rpy:1917
 translate german why_choose_eeee6177:
 
     # m "Well, everything else was out of stock. You were the only thing still left over."
-    m ""
+    m "Na ja, alles andere war ausverkauft. Du warst das Einzige, was noch übrig war."
 
 # game/script.rpy:1920
 translate german why_choose_17dc2a59:
 
     # b "Just..."
-    b ""
+    b "Nur..."
 
 # game/script.rpy:1922
 translate german why_choose_b97923bb:
 
     # b "...a {i}left over{/i}?"
-    b ""
+    b "...was {i}übrig war{/i}?"
 
 # game/script.rpy:1923
 translate german why_choose_5dbc5bd1:
 
     # "Wow. Are you TRYING to be this bad?"
-    ""
+    "Wow. Versuchst du gerade WIRKLICH so mies zu sein?"
 
 # game/script.rpy:1925
 translate german why_choose_c0afc7da:
 
     # m "(I'm just being honest! I hate sugar-coating.)"
-    m ""
+    m "(Ich bin doch nur ehrlich! Ich hasse Schönrederei.)"
 
 # game/script.rpy:1930
 translate german why_choose_b9517bb0:
 
     # b "My thoughts are being loud again!"
-    b ""
+    b "Meine Gedanken sind schon wieder zu laut!"
 
 # game/script.rpy:1932
 translate german why_choose_7a8e4972:
 
     # m "Well, what do they say?"
-    m ""
+    m "Und, was sagen sie?"
 
 # game/script.rpy:1934
 translate german why_choose_dbdf7d0f:
 
     # b "That I'm going to die soon!"
-    b ""
+    b "Dass ich bald sterben werde!"
 
 # game/script.rpy:1935
 translate german why_choose_7312db5d:
 
     # b "I-I'm feeling really panicked! I don't like this! How do I make the thoughts stop?"
-    b ""
+    b "I-Ich gerate total in Panik! Ich halte das nicht aus! Wie bringe ich die Gedanken zum Aufhören?"
 
 # game/script.rpy:1938
 translate german why_choose_508cb228:
 
     # "This is why your friends hated you. You're just an infectious, miserable disease."
-    ""
+    "Deshalb haben dich deine Freunde gehasst. Du bist einfach nur eine ansteckende, elende Krankheit."
 
 # game/script.rpy:1940
 translate german why_choose_b04f5131:
 
     # m "Calm down. I know something that might help."
-    m ""
+    m "Beruhige dich. Ich hab etwas was dir helfen könnte."
 
 # game/script.rpy:1942
 translate german why_choose_e184d142:
 
     # b "What is it?"
-    b ""
+    b "Und was?"
 
 # game/script.rpy:1944
 translate german why_choose_dddb5409:
 
     # m "Let's go outside."
-    m ""
+    m "Lass uns nach draußen gehen."
 
 # game/script.rpy:1945
 translate german why_choose_7a0ada2e:
 
     # m "There's a field I know. It's a nice place... especially at sunset."
-    m ""
+    m "Ich kenne da ein Feld. Ein echt schöner ort... gerade bei Sonnenuntergang."
 
 # game/script.rpy:1946
 translate german why_choose_29915be0:
 
     # m "Usually not too busy either. Nice if you want some peace."
-    m ""
+    m "Meistens ist da auch nicht viel los. Schön, wenn man etwas Ruhe will."
 
 # game/script.rpy:1948
 translate german why_choose_e5a1f361:
 
     # m "It used to be my... um... \"calming down\" spot."
-    m ""
+    m "Früher war das mein… ähm… \"Runterkomm\"-Ort."
 
 # game/script.rpy:1950
 translate german why_choose_6d231c4b:
 
     # b "That sounds... really nice!"
-    b ""
+    b "Das klingt... wirklich schön!"
 
 # game/script.rpy:1952
 translate german why_choose_ac31f2bd:
 
     # b "I want to see it!"
-    b ""
+    b "Ich will's sehen!"
 
 # game/script.rpy:1954
 translate german why_choose_36662477:
 
     # m "(Distracted already? I'm jealous how easy it is for you.)"
-    m ""
+    m "(Schon abgelenkt? Ich beneide dich darum, wie leicht dir das fällt.)"
 
 # game/script.rpy:1956
 translate german why_choose_b7cc068a:
 
     # m "Fine, let's go. Stay quiet and follow me."
-    m ""
+    m "Na gut, dann los. Bleib leise und folg mir."
 
 # game/script.rpy:1958
 translate german why_choose_edccf69e:
 
     # b "As you wish, Master!"
-    b ""
+    b "Wie du wünschst, Meister!"
 
 # game/script.rpy:1960
 translate german why_choose_e175c34a:
 
     # m "Just %(player_name)s, please!"
-    m ""
+    m "Nur %(player_name)s, bitte!"
 
 # game/script.rpy:1964
 translate german why_choose_48e03842:
 
     # b "I don't know if it's intentional, but you're kinda hurtful sometimes."
-    b ""
+    b "Ich weiß nicht ob du das absichtlich machst, aber manchmal bist du ziemlich verletzend."
 
 # game/script.rpy:1965
 translate german why_choose_ac7d4372:
 
     # "Oh, it's all unintentional. This is just what happens when he's his natural self."
-    ""
+    "Oh, das ist alles unabsichtlich. So ist er eben, wenn er ganz er selbst ist."
 
 # game/script.rpy:1967
 translate german why_choose_defc6a73:
 
     # m "Sorry, sorry."
-    m ""
+    m "Tut mir leid, tut mir leid."
 
 # game/script.rpy:1969
 translate german why_choose_6a8ee07c:
 
     # b "Make it up to me!"
-    b ""
+    b "Mach’s wieder gut!"
 
 # game/script.rpy:1971
 translate german why_choose_46663d92:
 
     # m "How?"
-    m ""
+    m "Wie?"
 
 # game/script.rpy:1973
 translate german why_choose_27bf3b54:
 
     # b "Take me out somewhere! I'm already bored of this biscuit of a room!"
-    b ""
+    b "Nimm mich irgendwohin mit! Ich hab diese keks-trockene Bude jetzt schon satt!"
 
 # game/script.rpy:1978
 translate german bored_5b38d3d9:
 
     # "Outside? She wants to go OUTSIDE with you? Oh, it's time to show Button how pathetic you really are."
-    ""
+    "Draußen? Sie will nach DRAUßEN mit dir gehen? Oh, es ist Zeit Button zu zeigen wie erbärmlich du wirklich bist."
 
 # game/script.rpy:1980
 translate german bored_e6798436:
 
     # b "Come on! Aren't you bored in here too?"
-    b ""
+    b "Komm schon! Ist dir hier drin nicht auch langweilig?"
 
 # game/script.rpy:1982
 translate german bored_da16c840:
 
     # "You'd rather be bored, than afraid."
-    ""
+    "Du bist lieber gelangweilt, als verängstigt."
 
 # game/script.rpy:1987
 translate german bored_fe65175f:
 
     # "You fear leaving the safe confines of your home, especially with such a conspicuous-looking person."
-    ""
+    "Du fürchtest dich davor, den sicheren Schutz deines Zuhauses zu verlassen. Besonders mit jemandem, der so auffällig aussieht."
 
 # game/script.rpy:1988
 translate german bored_f3b8ca2c:
 
     # "However..."
-    ""
+    "Aber..."
 
 # game/script.rpy:1989
 translate german bored_5026130a:
 
     # "You have to help her make the most of her short life."
-    ""
+    "Du musst ihr helfen, das Beste aus ihrem kurzen Leben zu machen."
 
 # game/script.rpy:1990
 translate german bored_3db0acec:
 
     # "It's always been easier to put the needs of others above your own."
-    ""
+    "Es war schon immer leichter, die Bedürfnisse anderer über deine eigenen zu stellen."
 
 # game/script.rpy:1991
 translate german bored_78f84d45:
 
     # "Miraculously, you are able to brush your fears aside today."
-    ""
+    "Wundersamerweise schaffst du es heute, deine Ängste beiseitezuschieben."
 
 # game/script.rpy:1993
 translate german bored_3a54c8d7:
 
     # m "UUUUUUUGH- OK!"
-    m ""
+    m "UUUUUUUGH- OK!"
 
 # game/script.rpy:1995
 translate german bored_20dc3d69:
 
     # m "Let's just go to this place I know. It's close. Hardly anyone else goes there, so I can handle it."
-    m ""
+    m "Gehen wir einfach zu dem Ort, den ich kenne. Er ist nah. Da geht kaum jemand hin, das schaffe ich."
 
 # game/script.rpy:1997
 translate german bored_9353ac11:
 
     # m "I just hope no one stares at us..."
-    m ""
+    m "Ich hoffe nur, dass uns niemand anstarrt..."
 
 # game/script.rpy:1999
 translate german bored_4075cec0:
 
     # b "YAAAAAY!"
-    b ""
+    b "JAAAAAA!"
 
 # game/script.rpy:2007
 translate german bored_1344ad5d:
 
     # "In times like this, you tend to imagine how it would all happen:"
-    ""
+    "In solchen Momenten stellst du dir vor, wie alles ablaufen würde:"
 
 # game/script.rpy:2009
 translate german bored_d53584ec:
 
     # "You and Button would walk out the door."
-    ""
+    "Du und Button würdet zur Tür hinausgehen."
 
 # game/script.rpy:2011
 translate german bored_fa1c4e9c:
 
     # "People would stare."
-    ""
+    "Die Leute würden starren."
 
 # game/script.rpy:2012
 translate german bored_fe6cc16f:
 
     # "The warden would approach."
-    ""
+    "Der Hausmeister würde auf euch zukommen."
 
 # game/script.rpy:2013
 translate german bored_1e5a3b52:
 
     # "\"Who is she? Why didn't you sign her in? How long has she been living here?\""
-    ""
+    "\"Wer ist sie? Warum hast du sie nicht eingetragen? Wie lange lebt sie schon hier?\""
 
 # game/script.rpy:2014
 translate german bored_08eb04eb:
 
     # "The honest truth would make him chuckle, then he'll ask for the REAL answer."
-    ""
+    "Die ehrliche Wahrheit würde ihn zum Lachen bringen, dann würde er nach der WIRKLICHEN Antwort fragen."
 
 # game/script.rpy:2015
 translate german bored_bf3480f1:
 
     # "You'd freeze to the spot. You already did!"
-    ""
+    "Du würdest wie erstarrt stehen bleiben. Das hast du ja schon getan!"
 
 # game/script.rpy:2016
 translate german bored_8d2f5d8f:
 
     # "Are you ready to lie to his face?"
-    ""
+    "Bist du bereit, ihm direkt ins Gesicht zu lügen?"
 
 # game/script.rpy:2017
 translate german bored_29b26f92:
 
     # "You'd stumble. You'd panic."
-    ""
+    "Du würdest stottern. Du würdest in Panik geraten."
 
 # game/script.rpy:2018
 translate german bored_31c86ad7:
 
     # "Maybe they wouldn't even allow Button back."
-    ""
+    "Vielleicht würden sie Button nicht einmal wieder hereinlassen."
 
 # game/script.rpy:2019
 translate german bored_838b0c1f:
 
     # "All this, without even making it through the front door."
-    ""
+    "Und das alles, noch bevor ihr überhaupt durch die Haustür seid."
 
 # game/script.rpy:2024
 translate german bored_a471cbaf:
 
     # "Everything is overwhelming."
-    ""
+    "Alles ist überwältigend."
 
 # game/script.rpy:2028
 translate german bored_7746fc31:
 
     # m "I can't! What if someone realises what you are!?"
-    m ""
+    m "Ich kann nicht! Was, wenn jemand merkt, was du bist?!"
 
 # game/script.rpy:2029
 translate german bored_64de92e0:
 
     # m "You're weird! You're conspicuous! What if they try to TALK to us!?"
-    m ""
+    m "Du bist seltsam! Du fällst auf! Was, wenn sie versuchen, mit uns zu REDEN?!"
 
 # game/script.rpy:2031
 translate german bored_af671f4e:
 
     # b "No problem, I'm happy to talk."
-    b ""
+    b "Kein Problem, ich rede gern."
 
 # game/script.rpy:2033
 translate german bored_fbddf676:
 
     # m "What will you tell them? You think they'll let you go if you tell them THAT YOU'RE A MUSHROOM!?"
-    m ""
+    m "Was willst du ihnen sagen? Glaubst du, sie lassen dich einfach gehen, wenn du sagst, DASS DU EIN PILZ BIST?!"
 
 # game/script.rpy:2035
 translate german bored_6a0400d9:
 
     # b "I doubt anyone would care anyway! No one would-"
-    b ""
+    b "Ich bezweifle, dass das überhaupt jemanden interessieren würde! Niemand würde-"
 
 # game/script.rpy:2039
 translate german bored_280cfa51:
 
     # m "BUT WHAT IF THEY DO!? THEY WON'T BELIEVE YOU! EVEN IF WE TELL THEM THE TRUTH! THEY'LL LAUGH!"
-    m ""
+    m "ABER WAS, WENN DOCH?! SIE WERDEN DIR NICHT GLAUBEN! SELBST WENN WIR DIE WAHRHEIT SAGEN! SIE WERDEN UNS AUSLACHEN!"
 
 # game/script.rpy:2041
 translate german bored_5da9289e:
 
     # b "Stop interrupting me-"
-    b ""
+    b "Hör auf, mich zu unterbrechen-"
 
 # game/script.rpy:2043
 translate german bored_6f9c4da2:
 
     # m "WHAT DO YOU KNOW!? YOU'VE JUST BEEN BORN!"
-    m ""
+    m "WAS WEISST DU SCHON!? DU BIST GERADE ERST GEBOREN WORDEN!"
 
 # game/script.rpy:2045
 translate german bored_ec60ada7:
 
     # b "%(player_name)s-"
-    b ""
+    b "%(player_name)s-"
 
 # game/script.rpy:2047
 translate german bored_56f10bdc:
 
     # m "{size=+40}I'M NOT GOING OUTSIDE!{size=-40}" with sshake
-    m "" with sshake
+    m "{size=+40}ICH GEHE NICHT NACH DRAUSSEN!{size=-40}" with sshake
 
 # game/script.rpy:2050
 translate german bored_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2052
 translate german bored_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:2055
 translate german bored_00440fe4:
 
     # "Panic drives you into the bed, where you hide your face under the covers."
-    ""
+    "Die Panik treibt dich ins Bett, wo du dein Gesicht unter der Decke versteckst."
 
 # game/script.rpy:2059
 translate german bored_c3579bcd:
 
     # "You failed her sole request."
-    ""
+    "Du hast ihre einzige Bitte nicht erfüllt."
 
 # game/script.rpy:2060
 translate german bored_9bef8b95:
 
     # "You've disappointed her."
-    ""
+    "Du hast sie enttäuscht."
 
 # game/script.rpy:2064
 translate german bored_7f8af07d:
 
     # "You can't help her."
-    ""
+    "Du kannst ihr nicht helfen."
 
 # game/script.rpy:2065
 translate german bored_556cd05b:
 
     # "You can't even help yourself."
-    ""
+    "Du kannst nicht einmal dir selbst helfen."
 
 # game/script.rpy:2066
 translate german bored_037e8119:
 
     # "What use are you?"
-    ""
+    "Wozu bist du überhaupt gut?"
 
 # game/script.rpy:2067
 translate german bored_bf23eb34:
 
     # "Nobody needs you."
-    ""
+    "Niemand braucht dich."
 
 # game/script.rpy:2069
 translate german bored_cb232bf0:
 
     # "You hold everyone back. You depress them. You can't talk. You can't even fake a smile for them."
-    ""
+    "Du hältst alle zurück. Du ziehst sie runter. Du kannst nicht reden. Du kannst nicht einmal ein Lächeln vortäuschen."
 
 # game/script.rpy:2071
 translate german bored_ab5bd9aa:
 
     # "You feel the bed shift under new weight as Button sits at the foot of your bed."
-    ""
+    "Du spürst, wie sich das Bett unter neuem Gewicht bewegt, als Button sich an dein Fußende setzt."
 
 # game/script.rpy:2072
 translate german bored_618a6f45:
 
     # b "%(player_name)s... What's wrong? Why are you so upset all of a sudden?"
-    b ""
+    b "%(player_name)s... Was ist los? Warum bist du auf einmal so aufgewühlt?"
 
 # game/script.rpy:2073
 translate german bored_b3658b2c:
 
     # b "Come on! Let's just talk it out! We can figure this out together."
-    b ""
+    b "Komm schon! Lass uns einfach darüber reden! Wir kriegen das zusammen hin."
 
 # game/script.rpy:2074
 translate german bored_716a41d2:
 
     # m "I don't want to talk to anyone right now! I just want to be alone."
-    m ""
+    m "Ich will gerade mit niemandem reden! Ich will einfach allein sein."
 
 # game/script.rpy:2075
 translate german bored_850ef128_1:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2076
 translate german bored_9ed6f325:
 
     # b "But aren't you're just going to feel worse?"
-    b ""
+    b "Aber wirst du dich dann nicht nur schlimmer fühlen?"
 
 # game/script.rpy:2079
 translate german bored_494836f1:
