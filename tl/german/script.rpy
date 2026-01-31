@@ -808,7 +808,7 @@ translate german day1_watered_3f423276:
 translate german day1_watered_4290edc5:
 
     # "\"Please\": The magic word that makes you do something you don't want to do."
-    "„Bitte“ – das Zauberwort, das dich Dinge tun lässt, die du gar nicht tun willst."
+    "„Bitte“ das Zauberwort, das dich Dinge tun lässt, die du gar nicht tun willst."
 
 # game/script.rpy:1207
 translate german day1_watered_2bd9afea:
@@ -1402,7 +1402,7 @@ translate german about_231c5121:
 translate german about_de5ef238:
 
     # m "Pretty random facts you know there, for someone who's \"just\" been born!"
-    m "Ganz schön zufällige Fakten, wenn man bedenkt, dass du \„gerade erst geboren“\ wurdest!"
+    m "Ganz schön zufällige Fakten, wenn man bedenkt, dass du „gerade erst geboren“ wurdest!"
 
 # game/script.rpy:1515
 translate german about_f62f440a:
@@ -1990,7 +1990,7 @@ translate german about_502770b2:
 translate german about_069170db:
 
     # "How \"{sc=2}{color=#000000}ADORABLE\"{/sc} you are!? HAHAHAHAHAH! Your fragile masculinity REALLY didn't want to hear that!"
-    "Wie \"{sc=2}{color=#000000}SÜß\"{/sc} du bist!? HAHAHAHAHAH! Deine zerbrechliche Männlichkeit wollte das GAR NICHT hören!"
+    "Wie „{sc=2}{color=#000000}SÜß“{/sc} du bist!? HAHAHAHAHAH! Deine zerbrechliche Männlichkeit wollte das GAR NICHT hören!"
 
 # game/script.rpy:1720
 translate german about_a951b22b:
@@ -2344,7 +2344,7 @@ translate german explain_bfd6edac:
 translate german explain_8cbc511a:
 
     # m "After a certain point of stress... doing \"happy\" things isn't enough anymore."
-    m "Nach einem bestimmten Punkt von Stress... reicht es nicht mehr, einfach ‚fröhliche‘ Dinge zu tun."
+    m "Nach einem bestimmten Punkt von Stress... reicht es nicht mehr, einfach „fröhliche“ Dinge zu tun."
 
 # game/script.rpy:1851
 translate german explain_1bbc3fb9:
@@ -2626,7 +2626,7 @@ translate german why_choose_29915be0:
 translate german why_choose_e5a1f361:
 
     # m "It used to be my... um... \"calming down\" spot."
-    m "Früher war das mein… ähm… \"Runterkomm\"-Ort."
+    m "Früher war das mein… ähm… „Runterkomm“-Ort."
 
 # game/script.rpy:1950
 translate german why_choose_6d231c4b:
@@ -2800,7 +2800,7 @@ translate german bored_fe6cc16f:
 translate german bored_1e5a3b52:
 
     # "\"Who is she? Why didn't you sign her in? How long has she been living here?\""
-    "\"Wer ist sie? Warum hast du sie nicht eingetragen? Wie lange lebt sie schon hier?\""
+    "„Wer ist sie? Warum hast du sie nicht eingetragen? Wie lange lebt sie schon hier?“"
 
 # game/script.rpy:2014
 translate german bored_08eb04eb:
@@ -3004,1489 +3004,1489 @@ translate german bored_9ed6f325:
 translate german bored_494836f1:
 
     # "That's the plan, isn't it? You want to hurt yourself even more."
-    ""
+    "Das ist der Plan, oder? Du willst dich selbst noch mehr verletzen."
 
 # game/script.rpy:2080
 translate german bored_20290c6e:
 
     # "You want to crash your whole plane down to the ground."
-    ""
+    "Du willst dein gesamtes Flugzeug zum Absturz bringen."
 
 # game/script.rpy:2081
 translate german bored_d357933c:
 
     # b "Can you just tell me what's going on? This feels so unnecessary. I just want to help you...!"
-    b ""
+    b "Kannst du mir nicht einfach sagen was los ist? Das fühlt sich so unnötig an. Ich will dir doch nur helfen...!"
 
 # game/script.rpy:2082
 translate german bored_3c2d8679:
 
     # b "It's not good for you... At least look at me?"
-    b ""
+    b "Das tut dir nicht gut... Kannst du mich wenigstens ansehen?"
 
 # game/script.rpy:2083
 translate german bored_207f203d:
 
     # b "Please? We don't have to go out. It's okay!"
-    b ""
+    b "Bitte? Wir müssen ja nicht rausgehen. Es ist okay!""
 
 # game/script.rpy:2086
 translate german bored_1263e952:
 
     # "Ouch."
-    ""
+    "Autsch."
 
 # game/script.rpy:2089
 translate german bored_a7158c49:
 
     # "So you've made her resign herself to staying here?"
-    ""
+    "Also hast du sie jetzt dazu gebracht, sich damit abzufinden, hier zu bleiben?"
 
 # game/script.rpy:2092
 translate german bored_2c918071:
 
     # "Now you really wanna-"
-    ""
+    "Jetzt willst du wirklich-"
 
 # game/script.rpy:2107
 translate german bored_31d0ee24:
 
     # b "CAN YOU STOP!?" with sshake
-    b "" with sshake
+    b "KANNST DU AUFHÖREN!?" with sshake
 
 # game/script.rpy:2108
 translate german bored_23d82c2b:
 
     # b "Stop {sc=1}{color=#000000}mumbling{/sc} to yourself about-!"
-    b ""
+    b "Hör auf, dieses {sc=1}{color=#000000}Gemurmel{/sc} vor dich hin zu—!"
 
 # game/script.rpy:2109
 translate german bored_6ef682cb:
 
     # b "{sc=5}{color=#000000}STOP SAYING ALL THAT!!!{/sc}" with sshake
-    b "" with sshake
+    b "{sc=5}{color=#000000}HÖR AUF, DAS ALLES ZU SAGEN!!!{/sc}" with sshake
 
 # game/script.rpy:2116
 translate german bored_4a074507:
 
     # b "You hate it if we go, you hate it if we don't!"
-    b ""
+    b "Du hasst es, wenn wir gehen, und du hasst es, wenn wir es nicht tun!"
 
 # game/script.rpy:2117
 translate german bored_02994ad0:
 
     # b "You hate if I try to help - you hate yourself if I don't!"
-    b ""
+    b "Du hasst es, wenn ich versuche zu helfen - und du hasst dich selbst, wenn ich es nicht tue!"
 
 # game/script.rpy:2119
 translate german bored_882e183b:
 
     # b "You're impossible! You're just - {sc=4}{color=#000000}URGGHHH!{/color}{/sc}"
-    b ""
+    b "Du bist unmöglich! Du bist einfach - {sc=4}{color=#000000}URGGHHH!{/color}{/sc}"
 
 # game/script.rpy:2121
 translate german bored_2b69434c:
 
     # b "I just can't WIN! There's NOTHING I can do!"
-    b ""
+    b "Ich kann einfach nicht GEWINNEN! Es gibt NICHTS, was ich tun kann!"
 
 # game/script.rpy:2122
 translate german bored_e612037c_1:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:2124
 translate german bored_1a8cbe97:
 
     # m "I didn't realise... I was talking outloud..."
-    m ""
+    m "Ich hab gar nicht gemerkt… dass ich laut rede..."
 
 # game/script.rpy:2126
 translate german bored_d12b7f36:
 
     # b "You keep {i}doing it{/i}. All this awful, self-deprecating muttering..."
-    b ""
+    b "Du machst das {i}ständig{/i}. Dieses furchtbare, selbstabwertende Gemurmel..."
 
 # game/script.rpy:2127
 translate german bored_850ef128_2:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2129
 translate german bored_b921d761:
 
     # b "I'm at my wits' end. I'm not spending the rest of my life like THIS!"
-    b ""
+    b "Ich bin mit meinen Nerven am Ende. SO werde ich nicht den Rest meines Lebens verbringen!"
 
 # game/script.rpy:2130
 translate german bored_64d532e5:
 
     # b "I just need someone who'll have fun with me and show me the nice things life has to offer."
-    b ""
+    b "Ich brauche einfach jemanden, der mit mir Spaß hat und mir die schönen Seiten des Lebens zeigt."
 
 # game/script.rpy:2132
 translate german bored_24f749c9:
 
     # b "I thought... it'd be easy, but... maybe it isn't after all."
-    b ""
+    b "Ich dachte... das wäre einfach, aber... vielleicht ist es das doch nicht."
 
 # game/script.rpy:2134
 translate german bored_4b0fbe50:
 
     # b "So if it isn't for you, I understand. I just need to know."
-    b ""
+    b "Wenn es das für dich nicht ist, verstehe ich das. Ich muss es nur wissen."
 
 # game/script.rpy:2136
 translate german bored_b24fb94d:
 
     # b "Are you going to be that person, or not?"
-    b ""
+    b "Wirst du diese Person sein, oder nicht?"
 
 # game/script.rpy:2147
 translate german fakechoseychoice_35809d0d:
 
     # m "I-"
-    m ""
+    m "Es-"
 
 # game/script.rpy:2166
 translate german fakechoseychoice_ae6cc62c:
 
     # m "I'm sorry."
-    m ""
+    m "Es tut mir leid."
 
 # game/script.rpy:2173
 translate german fakechoseychoice_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2175
 translate german fakechoseychoice_ca330b6f:
 
     # b "I... see..."
-    b ""
+    b "Ich... verstehe..."
 
 # game/script.rpy:2176
 translate german fakechoseychoice_2fc84538:
 
     # b "Then..."
-    b ""
+    b "Dann..."
 
 # game/script.rpy:2178
 translate german fakechoseychoice_3dab6ca9:
 
     # b "Goodbye."
-    b ""
+    b "Leb wohl."
 
 # game/script.rpy:2259
 translate german leavehouse_98ff3a29:
 
     # "You and Button leave the dormitory without incident, and stroll down the sidewalk to the nearby field."
-    ""
+    "Du und Button verlasst das Wohnheim ohne Zwischenfälle und schlendert den Gehweg entlang zu dem nahegelegenen Feld."
 
 # game/script.rpy:2260
 translate german leavehouse_8e775b82:
 
     # "She stares at EVERYTHING - buildings, sidewalks, recycling bins, cars... she even smiles and waves to passing people! Ugh."
-    ""
+    "Sie starrt ALLES an - Gebäude, Gehwege, Mülltonnen, Autos... sie lächelt sogar und winkt vorbeigehenden Leuten! Ugh."
 
 # game/script.rpy:2261
 translate german leavehouse_6a701210:
 
     # "It's too obvious. It's embarrassing."
-    ""
+    "Es ist viel zu auffällig. Es ist peinlich."
 
 # game/script.rpy:2262
 translate german leavehouse_c15826b1:
 
     # "You don't talk to her, and you keep an appropriate distance so you could pass off as strangers."
-    ""
+    "Du sprichst nicht mit ihr und hältst genug Abstand, damit ihr als Fremde durchgehen könntet."
 
 # game/script.rpy:2263
 translate german leavehouse_4e261b0f:
 
     # "One passerby compliments her \"cosplay\". She beams back confusedly. You'll have to explain the concept later."
-    ""
+    "Eine Person lobt ihr „Cosplay\". Sie strahlt verwirrt zurück. Das Konzept musst du ihr später erklären."
 
 # game/script.rpy:2264
 translate german leavehouse_7e2c269a:
 
     # "You're just grateful nobody talks to YOU."
-    ""
+    "Du bist einfach nur froh, dass niemand mit DIR spricht."
 
 # game/script.rpy:2274
 translate german leavehouse_870d826d:
 
     # "Finally, you arrive at the field. There're only two kids and a dog, playing at the opposite end of the field."
-    ""
+    "Schließlich kommt ihr auf dem Feld an. Nur zwei Kinder und ein Hund spielen am anderen Ende."
 
 # game/script.rpy:2275
 translate german leavehouse_8cc85c82:
 
     # "As you gaze up at the orange-tinted sky, you feel a hint of peace, but you're also continuously keeping an anxious eye on Button."
-    ""
+    "Als du in den orange gefärbten Himmel blickst, spürst du einen Hauch von Frieden, behältst Button aber nervös im Blick."
 
 # game/script.rpy:2276
 translate german leavehouse_3bf8734f:
 
     # "She watches the children from afar and mimics their play, rolling around on the hills and screaming with delight."
-    ""
+    "Sie beobachtet die Kinder aus der Ferne und ahmt ihr Spiel nach, rollt die Hügel hinunter und kreischt vor Freude."
 
 # game/script.rpy:2277
 translate german leavehouse_c32f17ee:
 
     # "Gradually, you're able to relax your worries."
-    ""
+    "Allmählich lassen deine Sorgen nach."
 
 # game/script.rpy:2282
 translate german leavehouse_fd718669:
 
     # b "Come roll with me, %(player_name)s!"
-    b ""
+    b "Komm roll mit mir, %(player_name)s!"
 
 # game/script.rpy:2284
 translate german leavehouse_15911943:
 
     # m "Your clothes are going to get dirty."
-    m ""
+    m "Deine Kleidung wird schmutzig."
 
 # game/script.rpy:2286
 translate german leavehouse_eb809b9f:
 
     # b "Then get dirty WITH ME!"
-    b ""
+    b "Dann werd MIT MIR schmutzig!"
 
 # game/script.rpy:2287
 translate german leavehouse_bbb136c8:
 
     # "She tugs on your hoodie forcibly, and you tumble sideways with her."
-    ""
+    "Sie zerrt kräftig an deinem Hoodie, und ihr fallt gemeinsam zur Seite."
 
 # game/script.rpy:2291
 translate german leavehouse_f8a4e96c:
 
     # "Yup... You're dirty now, so you may as well join in..."
-    ""
+    "Jep... jetzt bist du sowieso schmutzig, also kannst du auch mitmachen..."
 
 # game/script.rpy:2292
 translate german leavehouse_11ae7d6f:
 
     # "The both of you roll down the hill. Despite your initial dislike of the childish activity, you've got to admit:"
-    ""
+    "Ihr rollt gemeinsam den Hügel hinunter. Trotz deiner anfänglichen Abneigung musst du zugeben:"
 
 # game/script.rpy:2293
 translate german leavehouse_39777f36:
 
     # "It's pretty fun!"
-    ""
+    "Es macht ziemlich Spaß!"
 
 # game/script.rpy:2295
 translate german leavehouse_579279ea:
 
     # "Then, while you're both lying down catching your breath, the dog you noticed earlier comes over and sniffs Button cautiously."
-    ""
+    "Während ihr beide keuchend daliegt, kommt der Hund von vorhin herüber und beschnuppert Button vorsichtig."
 
 # game/script.rpy:2301
 translate german leavehouse_55565e81:
 
     # b "{sc=4}{color=#000000}HELP! IT'S EATING ME!!! I DON'T WANT TO DIE YET!"
-    b ""
+    b "{sc=4}{color=#000000}HILFE! ES FRISST MICH!!! ICH WILL NOCH NICHT STERBEN!"
 
 # game/script.rpy:2303
 translate german leavehouse_9661d7fa:
 
     # m "Calm down! It's not dangerous, I promise! He just sniffing you."
-    m ""
+    m "Beruhig dich! Er ist nicht gefährlich, versprochen! Er schnuppert nur an dir."
 
 # game/script.rpy:2308
 translate german leavehouse_c3372dc8:
 
     # b "Eeeek! It's eating me! {sc=4}{color=#000000}HELP!"
-    b ""
+    b "Iiiiih! Es frisst mich! {sc=4}{color=#000000}HILFE!"
 
 # game/script.rpy:2310
 translate german leavehouse_8e798c79:
 
     # m "No, it's just sniffing. Look."
-    m ""
+    m "Nein, er schnuppert nur. Schau."
 
 # game/script.rpy:2312
 translate german leavehouse_ecafd323:
 
     # "You hold out your hand, and the dog gives it a quick sniff too, before returning to Button."
-    ""
+    "Du hältst deine Hand hin, und der Hund schnuppert kurz daran, bevor er sich wieder Button zuwendet."
 
 # game/script.rpy:2314
 translate german leavehouse_51436d61:
 
     # b "What is it...?"
-    b ""
+    b "Was ist das...?"
 
 # game/script.rpy:2315
 translate german leavehouse_3de7d0f3:
 
     # m "Just a friendly dog. Try pet him."
-    m ""
+    m "Nur ein freundlicher Hund. Versuch, ihn zu streicheln."
 
 # game/script.rpy:2317
 translate german leavehouse_5f28383c:
 
     # b "Oooh! It's so... fluffy?"
-    b ""
+    b "Oooh! Er ist so... flauschig?"
 
 # game/script.rpy:2319
 translate german leavehouse_bbee761e:
 
     # b "Why's he sniffing so much!? Hehe!"
-    b ""
+    b "Warum schnuppert er so viel!? Hehe!"
 
 # game/script.rpy:2321
 translate german leavehouse_e0216305:
 
     # m "He's probably not sure what you are... haha."
-    m ""
+    m "Er weiß wahrscheinlich nicht, was du bist... haha."
 
 # game/script.rpy:2324
 translate german leavehouse_2fad6346:
 
     # "Eventually, the dog's owners call him back and he trots away. You both leave soon after."
-    ""
+    "Schließlich rufen die Besitzer den Hund zurück, und er trabt davon. Kurz darauf geht ihr auch."
 
 # game/script.rpy:2361
 translate german leavehouse_2bf3bbf1:
 
     # b "The outside is AMAZING!"
-    b ""
+    b "Es ist so TOLL draußen!"
 
 # game/script.rpy:2363
 translate german leavehouse_383bd91f:
 
     # b "How often a day do you usually go?"
-    b ""
+    b "Wie oft am Tag gehst du normalerweise raus?"
 
 # game/script.rpy:2365
 translate german leavehouse_838b670d:
 
     # m "How often a DAY? Um..."
-    m ""
+    m "Wie oft am TAG? Ähm..."
 
 # game/script.rpy:2367
 translate german leavehouse_3f6e235a:
 
     # b "Ughh, I just wanna go out again!"
-    b ""
+    b "Ughh, ich will einfach nochmal raus!"
 
 # game/script.rpy:2369
 translate german leavehouse_1635c1cc:
 
     # m "(She looks happier.)"
-    m ""
+    m "(Sie sieht glücklicher aus.)"
 
 # game/script.rpy:2371
 translate german leavehouse_63ca3b20:
 
     # m "(And less depressed. That's good.)"
-    m ""
+    m "(Und weniger deprimiert. Das ist gut.)"
 
 # game/script.rpy:2372
 translate german leavehouse_87db3568:
 
     # m "I'm glad you had a good time..."
-    m ""
+    m "Ich freu mich, dass es dir gefallen hat..."
 
 # game/script.rpy:2375
 translate german leavehouse_28c414aa:
 
     # b "What do you wanna do now?"
-    b ""
+    b "Was willst du jetzt machen?"
 
 # game/script.rpy:2377
 translate german leavehouse_3b89fb22:
 
     # m "(She STILL wants to do something? Man, can't she just leave already?)"
-    m ""
+    m "(Sie will IMMER NOCH was machen? Mann, kann sie nicht einfach gehen?)"
 
 # game/script.rpy:2379
 translate german leavehouse_50fa5fcb:
 
     # m "Now?... Um, just lie down and recharge, honestly. If that's ok."
-    m ""
+    m "Jetzt?... Ähm, ehrlich gesagt einfach hinlegen und auftanken. Wenn das okay ist."
 
 # game/script.rpy:2381
 translate german leavehouse_898e97f4:
 
     # b "You're sleepy?"
-    b ""
+    b "Du bist müde?"
 
 # game/script.rpy:2383
 translate german leavehouse_78f1208b:
 
     # m "More like... I need to relax for a while after all the excitement."
-    m ""
+    m "Wohl eher... ich muss mich nach all der Aufregung kurz entspannen."
 
 # game/script.rpy:2385
 translate german leavehouse_72517409:
 
     # b "Then let's lie down together! A lil snuggie will help you recharge!"
-    b ""
+    b "Dann lass uns zusammen hinlegen! Ein kleines Kuscheln hilft beim Auftanken!"
 
 # game/script.rpy:2387
 translate german leavehouse_28bd1877:
 
     # m "What? Ugh... I told you-"
-    m ""
+    m "Was? Ugh… ich hab dir doch gesagt-"
 
 # game/script.rpy:2389
 translate german leavehouse_f53e8b7a:
 
     # b "Just as homies! Promise!"
-    b ""
+    b "Nur als Homies! Versprochen!"
 
 # game/script.rpy:2391
 translate german leavehouse_36f8716d:
 
     # m "I don't have the energy for this..."
-    m ""
+    m "Ich hab dafür gerade keine Energie..."
 
 # game/script.rpy:2392
 translate german leavehouse_873fffe4:
 
     # "But before you can walk away, Button stops you."
-    ""
+    "Aber bevor du weggehen kannst, hält Button dich auf."
 
 # game/script.rpy:2394
 translate german leavehouse_e5fff30b:
 
     # b "Wait..."
-    b ""
+    b "Warte..."
 
 # game/script.rpy:2395
 translate german leavehouse_99838781:
 
     # b "There's something I need to ask you."
-    b ""
+    b "Es gibt da etwas, was ich dich fragen muss."
 
 # game/script.rpy:2397
 translate german leavehouse_e9a00f13:
 
     # m "What?"
-    m ""
+    m "Was?"
 
 # game/script.rpy:2399
 translate german leavehouse_f65082e1:
 
     # b "You're probably hungry after going out, huh?"
-    b ""
+    b "Du bist nach dem Rausgehen bestimmt hungrig, oder?"
 
 # game/script.rpy:2400
 translate german leavehouse_8b3db82d:
 
     # b "So I wanted to ask... are you planning to eat me tonight?"
-    b ""
+    b "Also wollte ich fragen... hast du vor, mich heute Abend zu essen?"
 
 # game/script.rpy:2407
 translate german leavehouse_0815eac5:
 
     # "You are feeling pretty hungry after all of that rolling."
-    ""
+    "Nach dem ganzen Herumrollen bist du tatsächlich ziemlich hungrig."
 
 # game/script.rpy:2409
 translate german leavehouse_29cf8eeb:
 
     # m "But... is that really ok with you?"
-    m ""
+    m "Aber... ist das wirklich okay für dich?"
 
 # game/script.rpy:2412
 translate german leavehouse_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2414
 translate german leavehouse_8a30337d:
 
     # b "I don't know anymore."
-    b ""
+    b "Ich weiß es nicht mehr."
 
 # game/script.rpy:2415
 translate german leavehouse_ba512a91:
 
     # b "It's kind of scary..."
-    b ""
+    b "Es ist irgendwie beängstigend..."
 
 # game/script.rpy:2417
 translate german leavehouse_f0e65af4:
 
     # b "Could you... not...? Is that ok?"
-    b ""
+    b "Könntest du... das bitte nicht tun...? Ist das okay?"
 
 # game/script.rpy:2419
 translate german leavehouse_c9f79871:
 
     # m "Hey, I'm not a psychopath. Of course it's ok."
-    m ""
+    m "Hey, ich bin doch kein Psychopath. Natürlich ist das okay."
 
 # game/script.rpy:2421
 translate german leavehouse_d8e6231a:
 
     # b "YAAAAAAAY!~" with sshake
-    b "" with sshake
+    b "JAAAAAA!~" with sshake
 
 # game/script.rpy:2422
 translate german leavehouse_9af82a0c:
 
     # b "I get to live!"
-    b ""
+    b "Ich darf weiterleben!"
 
 # game/script.rpy:2424
 translate german leavehouse_ea318c94:
 
     # m "If you were gonna be THAT relieved, you shouldn't have offered in the first place."
-    m ""
+    m "Wenn dich das SO erleichtert, hättest du es gar nicht erst vorschlagen sollen."
 
 # game/script.rpy:2426
 translate german leavehouse_5b3538f9:
 
     # b "Ahh... now I can look forward to going out more and seeing everything outside! There's so much! I can't wait!"
-    b ""
+    b "Ahh... jetzt kann ich mich darauf freuen, öfter rauszugehen und alles draußen zu sehen! Da gibt es so viel! Ich kann es kaum erwarten!"
 
 # game/script.rpy:2428
 translate german leavehouse_84088558:
 
     # m "Whoa whoa whoa... We never discussed this."
-    m ""
+    m "Moment, Moment... darüber haben wir nie gesprochen."
 
 # game/script.rpy:2430
 translate german leavehouse_64590162:
 
     # m "I'm drained after today."
-    m ""
+    m "Ich bin nach heute total fertig."
 
 # game/script.rpy:2431
 translate german leavehouse_76f04785:
 
     # m "I'd prefer if you could just... take yourself out, so I could rest tomorrow."
-    m ""
+    m "Mir wäre lieber, du würdest einfach mal allein rausgehen, damit ich mich morgen ausruhen kann."
 
 # game/script.rpy:2433
 translate german leavehouse_c5c6e918:
 
     # b "But... didn't you like it?"
-    b ""
+    b "Aber... hat es dir denn nicht gefallen?"
 
 # game/script.rpy:2435
 translate german leavehouse_e36a0e06:
 
     # m "I did. But still. Tiring."
-    m ""
+    m "Doch. Aber trotzdem. Anstrengend."
 
 # game/script.rpy:2437
 translate german leavehouse_ef0da038:
 
     # b "But..."
-    b ""
+    b "Aber..."
 
 # game/script.rpy:2438
 translate german leavehouse_0265a6bd:
 
     # b "It's... lonely..."
-    b ""
+    b "Es ist... einsam..."
 
 # game/script.rpy:2440
 translate german leavehouse_5b775aa9:
 
     # m "Can't you just TRY it first before deciding how you're going to feel?"
-    m ""
+    m "Kannst du es nicht wenigstens erst VERSUCHEN, bevor du entscheidest, wie es sich anfühlen wird?"
 
 # game/script.rpy:2443
 translate german leavehouse_850ef128_1:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2445
 translate german leavehouse_e1e80e52:
 
     # b "You raised me. You're supposed to take care of me!"
-    b ""
+    b "Du hast mich großgezogen. Du solltest dich eigentlich um mich kümmern!"
 
 # game/script.rpy:2446
 translate german leavehouse_0b1049d5:
 
     # b "I can't just go out there on my own! I need you!"
-    b ""
+    b "Ich kann da draußen nicht einfach allein sein! Ich brauche dich!"
 
 # game/script.rpy:2448
 translate german leavehouse_1c23497a:
 
     # m "What about MY needs? Aren't you being too forceful? I think you can do something as simple as walk around by yourself."
-    m ""
+    m "Und was ist mit MEINEN Bedürfnissen? Bist du nicht ein bisschen zu fordernd? Ich denke, du schaffst etwas so Einfaches wie allein spazieren zu gehen."
 
 # game/script.rpy:2450
 translate german leavehouse_850ef128_2:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2452
 translate german leavehouse_06c8fae4:
 
     # b "Oh."
-    b ""
+    b "Oh."
 
 # game/script.rpy:2453
 translate german leavehouse_8634939d:
 
     # b "I {i}am{/i} being needy."
-    b ""
+    b "Ich bin {i}wirklich{/i} anhänglich."
 
 # game/script.rpy:2456
 translate german leavehouse_33a9b25c:
 
     # b "I'm sorry."
-    b ""
+    b "Tut mir leid."
 
 # game/script.rpy:2457
 translate german leavehouse_c6bb5a2f:
 
     # b "I'm just scared to be alone...."
-    b ""
+    b "Ich habe einfach Angst, allein zu sein..."
 
 # game/script.rpy:2458
 translate german leavehouse_693179a9:
 
     # b "I'm sorry for... being bad at this."
-    b ""
+    b "Tut mir leid, dass ich... so schlecht damit klarkomme."
 
 # game/script.rpy:2460
 translate german leavehouse_5b49266f:
 
     # "Wow. She's about to cry."
-    ""
+    "Wow. Sie steht kurz davor zu weinen."
 
 # game/script.rpy:2466
 translate german leavehouse_c25c841b:
 
     # b "Yup! I'm ready anytime you want to eat me!"
-    b ""
+    b "Jap! Ich bin jederzeit bereit, wenn du mich essen willst!"
 
 # game/script.rpy:2468
 translate german leavehouse_6861974f:
 
     # b "I'm delicious AND nutritious!"
-    b ""
+    b "Ich bin lecker UND nahrhaft!"
 
 # game/script.rpy:2470
 translate german leavehouse_8abc0fe7:
 
     # m "...You sure?"
-    m ""
+    m "...Ganz sicher?"
 
 # game/script.rpy:2472
 translate german leavehouse_e89226b7:
 
     # b "Yup... It's part of life. I'm already so lucky to have been able to spend a day with you, so-"
-    b ""
+    b "Ja... Es gehört halt zum Leben dazu. Ich hatte schon so viel Glück, überhaupt einen Tag mit dir verbringen zu dürfen, also-"
 
 # game/script.rpy:2473
 translate german leavehouse_a4dc9ef5:
 
     # b "Please, go ahead!"
-    b ""
+    b "Bitte... bediene dich!"
 
 # game/script.rpy:2475
 translate german leavehouse_b6029a46:
 
     # m "Hah... Well... Ok."
-    m ""
+    m "Hah... na gut... okay."
 
 # game/script.rpy:2477
 translate german leavehouse_be8efcc5:
 
     # m "Thanks for the fun day."
-    m ""
+    m "Danke für den schönen Tag."
 
 # game/script.rpy:2481
 translate german leavehouse_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:2482
 translate german leavehouse_feca35af:
 
     # m "I'm really doing it."
-    m ""
+    m "Ich mache es wirklich."
 
 # game/script.rpy:2483
 translate german leavehouse_61201179:
 
     # m "Frying up bits of seasoned mushroom with egg, tomato and cheese."
-    m ""
+    m "Ich brate gewürzte Pilzstücke mit Ei, Tomate und Käse."
 
 # game/script.rpy:2484
 translate german leavehouse_a828fc20:
 
     # "Once it's diced up, you really can't tell it used to be her face."
-    ""
+    "Wenn alles klein geschnitten ist, erkennt man wirklich nicht mehr, dass es einmal ihr Gesicht war."
 
 # game/script.rpy:2485
 translate german leavehouse_205eea19:
 
     # "Isn't this messed up?"
-    ""
+    "Ist das nicht total krank?"
 
 # game/script.rpy:2486
 translate german leavehouse_43d63a0a:
 
     # m "Maybe so, but..."
-    m ""
+    m "Vielleicht... aber-"
 
 # game/script.rpy:2516
 translate german leavehouse_ae0c3400:
 
     # m "She wasn't lying! This is freaking delicious!"
-    m ""
+    m "Sie hat nicht gelogen! Das ist verdammt lecker!"
 
 # game/script.rpy:2539
 translate german leavehouse_236fef67:
 
     # m "Honestly? I don't feel that hungry..."
-    m ""
+    m "Ehrlich gesagt? Ich habe gar nicht so viel Hunger..."
 
 # game/script.rpy:2541
 translate german leavehouse_1dc04a7c:
 
     # b "Another day of life for me! Yay!"
-    b ""
+    b "Ein weiterer Lebenstag für mich! Yay!"
 
 # game/script.rpy:2542
 translate german leavehouse_f90dd2c1:
 
     # b "Does this mean we can go somewhere else tomorrow? Please please please?"
-    b ""
+    b "Heißt das, wir können morgen woanders hingehen? Bitte bitte bitte?"
 
 # game/script.rpy:2544
 translate german leavehouse_e7c15a9d:
 
     # m "Ahhh..."
-    m ""
+    m "Ahhh..."
 
 # game/script.rpy:2546
 translate german leavehouse_a191e100:
 
     # m "Can't you just go by yourself?"
-    m ""
+    m "Kannst du nicht einfach allein gehen?"
 
 # game/script.rpy:2548
 translate german leavehouse_a087efad:
 
     # b "What? Where's the fun in that? I need my companion with me to protect me and play with me!"
-    b ""
+    b "Was? Wo ist denn da der Spaß? Ich brauche meinen Begleiter, der mich beschützt und mit mir spielt!"
 
 # game/script.rpy:2550
 translate german leavehouse_bfd285da:
 
     # m "Ah. I see..."
-    m ""
+    m "Ah. Verstehe..."
 
 # game/script.rpy:2552
 translate german leavehouse_2ec7f18c:
 
     # b "Please please please come with me? I don't wanna get lonely..."
-    b ""
+    b "Bitte bitte bitte komm mit mir? Ich will nicht wieder einsam sein..."
 
 # game/script.rpy:2554
 translate german leavehouse_c0a0acde:
 
     # m "...Wow, those are some puppy eyes..."
-    m ""
+    m "...Wow, das ist echt ein Hundeblick..."
 
 # game/script.rpy:2556
 translate german leavehouse_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:2558
 translate german leavehouse_0882e5d4:
 
     # m "Ah, fine. I've done it once already, so it should be ok..."
-    m ""
+    m "Ach, na gut. Ich habe es ja schon einmal gemacht, also wird es wohl gehen..."
 
 # game/script.rpy:2560
 translate german leavehouse_fb5b2863:
 
     # b "Really? Thank you. You sure?"
-    b ""
+    b "Wirklich? Danke! Ganz sicher?"
 
 # game/script.rpy:2562
 translate german leavehouse_91261a08:
 
     # b "You promise you can go out with me?"
-    b ""
+    b "Du versprichst, dass du mit mir rausgehst?"
 
 # game/script.rpy:2564
 translate german leavehouse_c9c5c175:
 
     # m "It's just a few days anyway..."
-    m ""
+    m "Es sind ja sowieso nur ein paar Tage..."
 
 # game/script.rpy:2568
 translate german leavehouse_850ef128_3:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2569
 translate german leavehouse_6fc80148:
 
     # b "Yeah."
-    b ""
+    b "Ja."
 
 # game/script.rpy:2572
 translate german leavehouse_3da56454:
 
     # b "It's already night time. My first day is already over."
-    b ""
+    b "Es ist schon Nacht. Mein erster Tag ist schon vorbei."
 
 # game/script.rpy:2573
 translate german leavehouse_2558b009:
 
     # b "I didn't realise how quickly time would pass."
-    b ""
+    b "Ich hätte nicht gedacht, dass die Zeit so schnell vergeht."
 
 # game/script.rpy:2575
 translate german leavehouse_a4773cab:
 
     # b "I understand what you meant earlier now."
-    b ""
+    b "Jetzt verstehe ich, was du vorhin meintest."
 
 # game/script.rpy:2576
 translate german leavehouse_374c3956:
 
     # b "Even if I have fun, even if I don't, it doesn't matter in the end. It's getting closer!"
-    b ""
+    b "Egal ob ich Spaß habe oder nicht, am Ende ist es egal. Es kommt immer näher!"
 
 # game/script.rpy:2579
 translate german leavehouse_c750c84e:
 
     # m "I'm... I'm so sorry for saying all that."
-    m ""
+    m "Es tut mir... wirklich leid, dass ich das alles gesagt habe."
 
 # game/script.rpy:2581
 translate german leavehouse_850ef128_4:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2582
 translate german leavehouse_52dcef3c:
 
     # b "I..."
-    b ""
+    b "Ich..."
 
 # game/script.rpy:2587
 translate german leavehouse_24e21341:
 
     # b "{sc=2}{color=#000000}{size=+20}I don't want to die!{/sc}{size=-20}" with sshake
-    b "" with sshake
+    b "{sc=2}{color=#000000}{size=+20}Ich will nicht sterben!{/sc}{size=-20}" with sshake
 
 # game/script.rpy:2588
 translate german leavehouse_dc6e11f0:
 
     # b "I've only just been {sc=2}{color=#000000}born!{/sc} Why can't I live longer like you!?"
-    b ""
+    b "Ich bin doch gerade erst {sc=2}{color=#000000}geboren!{/sc} Warum darf ich nicht länger leben, wie du!?"
 
 # game/script.rpy:2590
 translate german leavehouse_0a7d542b:
 
     # b "{sc=2}{color=#000000}IT'S NOT FAIR! I DON'T WANT TO DIE YET!!!{/sc}" with sshake
-    b "" with sshake
+    b "{sc=2}{color=#000000}DAS IST NICHT FAIR! ICH WILL NOCH NICHT STERBEN!!!{/sc}" with sshake
 
 # game/script.rpy:2592
 translate german leavehouse_2d349f8a:
 
     # "Are you just going to just sit there and watch her have a panic attack?"
-    ""
+    "Willst du wirklich einfach nur dasitzen und zusehen, wie sie eine Panikattacke hat?"
 
 # game/script.rpy:2600
 translate german leavehouse_d95c0745:
 
     # m "I-I've got you. Just-"
-    m ""
+    m "I-Ich bin bei dir. Ganz-"
 
 # game/script.rpy:2601
 translate german leavehouse_9890ad83:
 
     # b "{sc=2}{color=#000000}NOTHING MATTERS! I CAN'T-"
-    b ""
+    b "{sc=2}{color=#000000}NICHTS IST WICHTIG! ICH KANN NICHT-"
 
 # game/script.rpy:2602
 translate german leavehouse_0cca2f64:
 
     # m "It's going to be ok-"
-    m ""
+    m "Es wird alles gut-"
 
 # game/script.rpy:2603
 translate german leavehouse_f5513030:
 
     # b "{sc=2}{color=#000000}IT'S NOT!"
-    b ""
+    b "{sc=2}{color=#000000}WIRD ES NICHT!"
 
 # game/script.rpy:2605
 translate german leavehouse_2e86419b:
 
     # b "{sc=2}{color=#000000}I'VE ONLY GOT TWO DAYS LEFT!"
-    b ""
+    b "{sc=2}{color=#000000}ICH HABE NUR NOCH ZWEI TAGE!"
 
 # game/script.rpy:2606
 translate german leavehouse_3e5e1084:
 
     # b "{sc=2}{color=#000000}I DON'T WANT TO DISAPPEAR! PLEASE HELP ME!"
-    b ""
+    b "{sc=2}{color=#000000}ICH WILL NICHT VERSCHWINDEN! BITTE HILF MIR!"
 
 # game/script.rpy:2607
 translate german leavehouse_ffac3f77:
 
     # m "Ok... First calm down."
-    m ""
+    m "Okay... zuerst musst du dich beruhigen."
 
 # game/script.rpy:2608
 translate german leavehouse_29dda217:
 
     # b "{sc=2}{color=#000000}BUT I CAN'T! IT'S GETTING CLOSER!"
-    b ""
+    b "{sc=2}{color=#000000}ABER ICH KANN NICHT! ES KOMMT IMMER NÄHER!"
 
 # game/script.rpy:2609
 translate german leavehouse_bf9acf0c:
 
     # m "Let's breathe together, ok? Just breathe in deeply when I say go, and hold it for eight seconds."
-    m ""
+    m "Lass uns zusammen atmen, okay? Atme tief ein, wenn ich \"los\" sage, und halte die Luft acht Sekunden lang."
 
 # game/script.rpy:2610
 translate german leavehouse_b9ed8af5:
 
     # m "Go. Inhale and hold~"
-    m ""
+    m "Los. Einatmen und halten~"
 
 # game/script.rpy:2612
 translate german leavehouse_319026a4:
 
     # b "{sc=1}{color=#000000}..."
-    b ""
+    b "{sc=1}{color=#000000}..."
 
 # game/script.rpy:2614
 translate german leavehouse_2c1dff99:
 
     # "One{w=1.0}{nw}"
-    ""
+    "Eins{w=1.0}{nw}"
 
 # game/script.rpy:2615
 translate german leavehouse_22d8c32c:
 
     # "Two{w=1.0}{nw}"
-    ""
+    "Zwei{w=1.0}{nw}"
 
 # game/script.rpy:2616
 translate german leavehouse_92f89d82:
 
     # "Three{w=1.0}{nw}"
-    ""
+    "Drei{w=1.0}{nw}"
 
 # game/script.rpy:2617
 translate german leavehouse_e5887f64:
 
     # "Four{w=1.0}{nw}"
-    ""
+    "Vier{w=1.0}{nw}"
 
 # game/script.rpy:2618
 translate german leavehouse_aa22ed83:
 
     # "Five{w=1.0}{nw}"
-    ""
+    "Fünf{w=1.0}{nw}"
 
 # game/script.rpy:2619
 translate german leavehouse_1a955283:
 
     # "Six{w=1.0}{nw}"
-    ""
+    "Sechs{w=1.0}{nw}"
 
 # game/script.rpy:2620
 translate german leavehouse_82f5a21f:
 
     # m "And exhale~ phew"
-    m ""
+    m "Und ausatmen~ puh."
 
 # game/script.rpy:2621
 translate german leavehouse_26e15393:
 
     # "Your perception of eight seconds is lacking, but ok..."
-    ""
+    "Dein Zeitgefühl für acht Sekunden ist fragwürdig, aber na gut..."
 
 # game/script.rpy:2622
 translate german leavehouse_57eca9a6:
 
     # b "{sc=1}{color=#000000}Pheeeeew~"
-    b ""
+    b "{sc=1}{color=#000000}Puhhhh~"
 
 # game/script.rpy:2623
 translate german leavehouse_70a5633f:
 
     # m "Once more-"
-    m ""
+    m "Noch einmal-"
 
 # game/script.rpy:2624
 translate german leavehouse_811bc249:
 
     # b "I think I can hear your heartbeat."
-    b ""
+    b "Ich glaube ich kann deinen Herzschlag hören."
 
 # game/script.rpy:2625
 translate german leavehouse_03869c94:
 
     # m "Uh... is that good?"
-    m ""
+    m "Ähm... ist das gut?"
 
 # game/script.rpy:2626
 translate german leavehouse_6ec8c027:
 
     # b "It's nice... I want to listen to it more."
-    b ""
+    b "Es ist schön... ich möchte ihm noch ein bisschen lauschen."
 
 # game/script.rpy:2627
 translate german leavehouse_570e8b40:
 
     # m "Well, fine, I guess? You have my permission to listen."
-    m ""
+    m "Na gut, meinetwegen? Du hast meine Erlaubnis zuzuhören."
 
 # game/script.rpy:2628
 translate german leavehouse_850ef128_5:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2630
 translate german leavehouse_9b69f7f9:
 
     # b "%(player_name)s, why do you get to have more time than me?"
-    b ""
+    b "%(player_name)s, warum kriegst du mehr Zeit als ich?"
 
 # game/script.rpy:2631
 translate german leavehouse_e51682c4:
 
     # m "No one gets to choose how long they have."
-    m ""
+    m "Niemand kann sich aussuchen, wie viel Zeit er hat."
 
 # game/script.rpy:2632
 translate german leavehouse_89312099:
 
     # m "Who knows? I could even die tomorrow before you do. Car crash. Aneurysm. Bomb. Poisoning..."
-    m ""
+    m "Wer weiß? Vielleicht sterbe ich sogar morgen vor dir. Autounfall. Aneurysma. Bombe. Vergiftung..."
 
 # game/script.rpy:2633
 translate german leavehouse_c184c687:
 
     # m "You at least won the miracle of getting any life at all."
-    m ""
+    m "Du hast wenigstens das Wunder gewonnen, überhaupt leben zu dürfen."
 
 # game/script.rpy:2634
 translate german leavehouse_55de36f3:
 
     # m "Many animals don't even get as far as birth. They can die in the womb. Some die soon after from starvation or disease."
-    m ""
+    m "Viele Tiere schaffen es nicht einmal bis zur Geburt. Sie sterben im Mutterleib. Andere kurz danach an Hunger oder Krankheiten."
 
 # game/script.rpy:2635
 translate german leavehouse_b816f190:
 
     # m "It could have been you. Like if I'd screwed up on watering you daily, you wouldn't even get the chance to be here."
-    m ""
+    m "Das hättest auch du sein können. Wenn ich beim täglichen Gießen Mist gebaut hätte, wärst du gar nicht erst hier."
 
 # game/script.rpy:2636
 translate german leavehouse_b8a9b49c:
 
     # m "So I'd say you're pretty lucky. You have a safe home, and a... um, person who cares for you."
-    m ""
+    m "Also würde ich sagen, dass du ziemlich Glück hast. Du hast ein sicheres Zuhause und... ähm... jemanden, der sich um dich kümmert."
 
 # game/script.rpy:2637
 translate german leavehouse_ebace33b:
 
     # m "You get to enjoy your life and do whatever you want."
-    m ""
+    m "Du darfst dein Leben genießen und tun, was immer du willst."
 
 # game/script.rpy:2638
 translate german leavehouse_39acfbaf:
 
     # b "It's hard to feel very lucky right now."
-    b ""
+    b "Im Moment ist es schwer, sich glücklich zu fühlen."
 
 # game/script.rpy:2639
 translate german leavehouse_c0796e1e:
 
     # m "Who knows if death is really the end? It could be the extension of the adventure. Maybe you'll get reincarnated."
-    m ""
+    m "Wer weiß schon, ob der Tod wirklich das Ende ist? Vielleicht ist er nur eine Fortsetzung des Abenteuers. Vielleicht wirst du wiedergeboren."
 
 # game/script.rpy:2640
 translate german leavehouse_a4ed50f4:
 
     # m "It might actually be a good thing that you're a mushroom. You're so different, we don't even know if our death is the same as yours."
-    m ""
+    m "Vielleicht ist es sogar was Gutes, dass du ein Pilz bist. Du bist so anders. Wir wissen nicht einmal, ob dein Tod derselbe ist wie unserer."
 
 # game/script.rpy:2641
 translate german leavehouse_e7a9c8fd:
 
     # b "But you don't know."
-    b ""
+    b "Aber du weißt es nicht."
 
 # game/script.rpy:2642
 translate german leavehouse_df5a26bc:
 
     # m "Well, yeah. No one knows."
-    m ""
+    m "Naja, niemand weiß es."
 
 # game/script.rpy:2643
 translate german leavehouse_e0d2460a:
 
     # b "So nothing is solved."
-    b ""
+    b "Also ist nichts gelöst."
 
 # game/script.rpy:2644
 translate german leavehouse_77fac951:
 
     # m "Button, I can't SOLVE the mystery of what happens after we die."
-    m ""
+    m "Button, ich kann das Rätsel, was nach dem Tod kommt, nicht LÖSEN."
 
 # game/script.rpy:2645
 translate german leavehouse_6dd5a22e:
 
     # m "But I can reassure you that you'll have a life worth dying for. Isn't that the important part?"
-    m ""
+    m "Aber ich kann dir versichern, dass du ein Leben haben wirst, für das es sich zu sterben lohnt. Ist das nicht das Wichtigste?"
 
 # game/script.rpy:2646
 translate german leavehouse_1887f5b7:
 
     # b "...Yeah."
-    b ""
+    b "...Ja."
 
 # game/script.rpy:2647
 translate german leavehouse_b3008157:
 
     # m "Do you regret today? Going out?"
-    m ""
+    m "Bereust du heute? Dass wir rausgegangen sind?"
 
 # game/script.rpy:2648
 translate german leavehouse_28f22375:
 
     # b "No."
-    b ""
+    b "Nein."
 
 # game/script.rpy:2649
 translate german leavehouse_f395c08e:
 
     # m "Do you think you'd enjoy doing it again tomorrow?"
-    m ""
+    m "Glaubst du, es würde dir morgen wieder gefallen?"
 
 # game/script.rpy:2650
 translate german leavehouse_9e694855:
 
     # b "Probably."
-    b ""
+    b "Wahrscheinlich."
 
 # game/script.rpy:2651
 translate german leavehouse_c36be2be:
 
     # m "Well then..."
-    m ""
+    m "Na dann..."
 
 # game/script.rpy:2652
 translate german leavehouse_215dab59:
 
     # m "That's what we'll do. We'll do lots of things together. Anything and everything you want."
-    m ""
+    m "Genau das machen wir. Wir können viele Dinge zusammen machen. Alles, was du willst."
 
 # game/script.rpy:2654
 translate german leavehouse_cb7b89a7:
 
     # b "Thank you... %(player_name)s."
-    b ""
+    b "Danke... %(player_name)s."
 
 # game/script.rpy:2656
 translate german leavehouse_29362efd:
 
     # m "Of course."
-    m ""
+    m "Natürlich."
 
 # game/script.rpy:2657
 translate german leavehouse_8160f295:
 
     # m "Is there anything you still want to do today before I sleep?"
-    m ""
+    m "Gibt es noch etwas, das du heute machen willst, bevor ich schlafen gehe?"
 
 # game/script.rpy:2658
 translate german leavehouse_9b13a942:
 
     # b "...Hmm."
-    b ""
+    b "...Hmm."
 
 # game/script.rpy:2659
 translate german leavehouse_385e0bf0:
 
     # b "You won't want to do it, but..."
-    b ""
+    b "Du wirst es nicht wollen, aber..."
 
 # game/script.rpy:2660
 translate german leavehouse_e35b9f11:
 
     # b "I want to..."
-    b ""
+    b "Ich möchte..."
 
 # game/script.rpy:2661
 translate german leavehouse_7c993651:
 
     # b "I still want to snuggle with you."
-    b ""
+    b "Ich möchte immer noch mit dir kuscheln."
 
 # game/script.rpy:2662
 translate german leavehouse_33083b51:
 
     # m "Oh..."
-    m ""
+    m "Oh..."
 
 # game/script.rpy:2663
 translate german leavehouse_8da3c09f:
 
     # b "I won't do anything weird. I promise. You can fall asleep. Just let me lie next to you..."
-    b ""
+    b "Ich mache nichts Komisches. Versprochen. Du kannst einschlafen. Lass mich einfach neben dir liegen..."
 
 # game/script.rpy:2667
 translate german leavehouse_a8c1bda0:
 
     # b "So I'm not... alone."
-    b ""
+    b "Damit ich nicht... allein bin."
 
 # game/script.rpy:2668
 translate german leavehouse_94a1811a:
 
     # b "Please?"
-    b ""
+    b "Bitte?"
 
 # game/script.rpy:2669
 translate german leavehouse_3f1d2ce0:
 
     # "At the sound of impending tears, you immediately agree."
-    ""
+    "Beim Klang der drohenden Tränen stimmst du sofort zu."
 
 # game/script.rpy:2670
 translate german leavehouse_efa96788:
 
     # m "It's ok. We can lie down together if it'll help."
-    m ""
+    m "Ist schon okay. Wir können uns zusammen hinlegen, wenn es hilft."
 
 # game/script.rpy:2672
 translate german leavehouse_77f13472:
 
     # b "It will. Thank you."
-    b ""
+    b "Das wird es. Danke."
 
 # game/script.rpy:2676
 translate german leavehouse_97484721:
 
     # "You lie down awkwardly in your bed, facing straight up. Button lies down right next to you, then looks at you."
-    ""
+    "Ihr legt euch etwas unbeholfen ins Bett, du starrst zur Decke. Button legt sich direkt neben dich und sieht dich an."
 
 # game/script.rpy:2677
 translate german leavehouse_91bd79e5:
 
     # b "Sorry about this."
-    b ""
+    b "Verzeih mir."
 
 # game/script.rpy:2678
 translate german leavehouse_1d697240:
 
     # m "No, it's ok. Is this fine with you?"
-    m ""
+    m "Nein, schon okay. Ist das so okay für dich?"
 
 # game/script.rpy:2679
 translate german leavehouse_e3501400:
 
     # b "Could we... hug?"
-    b ""
+    b "Könnten wir... uns umarmen?"
 
 # game/script.rpy:2680
 translate german leavehouse_d9da6261:
 
     # "Well... you can't refuse after what she just went through."
-    ""
+    "Naja... nach dem, was sie gerade durchgemacht hat, kannst du kaum Nein sagen."
 
 # game/script.rpy:2681
 translate german leavehouse_f598410b:
 
     # "So you turn to her, open your arms, and Button scoots right into them, placing her head on your arm."
-    ""
+    "Also drehst du dich zu ihr, öffnest deine Arme, und Button rutscht direkt hinein und legt ihren Kopf auf deinen Arm."
 
 # game/script.rpy:2682
 translate german leavehouse_8c4c592f:
 
     # "You can feel her body move within your arms as she breathes."
-    ""
+    "Du spürst, wie sich ihr Körper in deinen Armen mit ihrem Atem bewegt."
 
 # game/script.rpy:2683
 translate german leavehouse_4ccfd13d:
 
     # "True to her word, she doesn't do anything but lie there quietly."
-    ""
+    "Ihren Worten treu, tut sie nichts weiter, als still dazuliegen."
 
 # game/script.rpy:2684
 translate german leavehouse_1c017591:
 
     # "You have a suspicion she's still listening to your heart."
-    ""
+    "Du hast den Verdacht, dass sie immer noch deinem Herzschlag lauscht."
 
 # game/script.rpy:2685
 translate german leavehouse_2b073fd2:
 
     # "Wait a second... Do mushrooms breathe? WHY!?"
-    ""
+    "Warte mal... atmen Pilze? WARUM!?"
 
 # game/script.rpy:2686
 translate german leavehouse_87799f6e:
 
     # "As you ponder the oddity of the specimen clutching you, you feel her breaths slow down."
-    ""
+    "Während du über die Seltsamkeit des Wesens nachdenkst, das dich umklammert, spürst du, wie ihr Atem langsamer wird."
 
 # game/script.rpy:2687
 translate german leavehouse_b4a2d331:
 
     # "You start to relax too..."
-    ""
+    "Auch du beginnst dich zu entspannen..."
 
 # game/script.rpy:2688
 translate german leavehouse_31a06f30:
 
     # "You're glad she's feeling better."
-    ""
+    "Du bist froh, dass es ihr besser geht."
 
 # game/script.rpy:2690
 translate german leavehouse_4a6fa4ee:
 
     # "She'll probably forget all about this tomorrow..."
-    ""
+    "Sie wird das morgen wahrscheinlich alles vergessen..."
 
 # game/script.rpy:2701
 translate german leavehouse_fdbf0b79:
 
     # b "{sc=4}{color=#000000}YAAAAY! MORE DOGS FOR ME!"
-    b ""
+    b "{sc=4}{color=#000000}JAAA! MEHR HUNDE FÜR MICH!"
 
 # game/script.rpy:2703
 translate german leavehouse_043258ef:
 
     # m "Hah. Now I want to show you some animal videos."
-    m ""
+    m "Hah. Jetzt will ich dir Tier-Videos zeigen."
 
 # game/script.rpy:2706
 translate german leavehouse_fbc65ccb:
 
     # b "Wait for me~!"
-    b ""
+    b "Warte auf mich~!"
 
 # game/script.rpy:2710
 translate german leavehouse_bd50363c:
 
     # "You spend the rest of the night watching some funny animal videos from your laptop on your bed. All over the sheets and at an appropriate distance of course."
-    ""
+    "Ihr verbringt den Rest der Nacht damit, lustige Tier-Videos auf deinem Laptop im Bett zu schauen. Ganz brav auf der Bettdecke, mit angemessenem Abstand natürlich."
 
 # game/script.rpy:2711
 translate german leavehouse_c900a0ec:
 
     # "Button's reactions make you laugh harder than the videos."
-    ""
+    "Buttons Reaktionen bringen dich mehr zum Lachen als die Videos selbst."
 
 # game/script.rpy:2712
 translate german leavehouse_c4e29c61:
 
     # "It's really nice, just talking with her about something as trivial as animals."
-    ""
+    "Es ist wirklich schön, einfach mit ihr über etwas so Banales wie Tiere zu reden."
 
 # game/script.rpy:2713
 translate german leavehouse_2fb378a2:
 
     # "You're able to give her a lot of facts, using your existing knowledge and some help from the internet."
-    ""
+    "Du kannst ihr viele Fakten mit deinem vorhandenen Wissen und ein wenig Hilfe aus dem Internet erzählen."
 
 # game/script.rpy:2714
 translate german leavehouse_bb5cd78d:
 
     # "She actually listens and seems interested in what you say. It feels really good to contribute substantially to a conversation for once!"
-    ""
+    "Sie hört wirklich zu und scheint sich für das zu interessieren, was du sagst. Es fühlt sich richtig gut an, endlich wirklich etwas zu einem Gespräch beizutragen!"
 
 # game/script.rpy:2756
 translate german day_2_d9242a9b:
 
     # "You wake up."
-    ""
+    "Du wachst auf."
 
 # game/script.rpy:2757
 translate german day_2_a761f70c:
 
     # "That's it?"
-    ""
+    "Das war’s?"
 
 # game/script.rpy:2758
 translate german day_2_5640da5b:
 
     # "Strangely, there's none of your usual existential dread this morning!"
-    ""
+    "Merkwürdigerweise ist heute Morgen keine Spur von deiner üblichen existenziellen Angst da!"
 
 # game/script.rpy:2761
 translate german day_2_7d351aa3:
 
     # "As you open your eyes-"
-    ""
+    "Als du die Augen öffnest-"
 
 # game/script.rpy:2765
 translate german day_2_a88fbe73:
 
     # m "{sc=4}{color=#000000}BUTTON!?"
-    m ""
+    m "{sc=4}{color=#000000}BUTTON!?"
 
 # game/script.rpy:2768
 translate german day_2_91a2c31b:
 
     # b "You're awake! Hi..."
-    b ""
+    b "Du bist wach! Hi..."
 
 # game/script.rpy:2769
 translate german day_2_3edf20fc:
 
     # "So it was real. Disappointing. It looks like you're in for another hard day."
-    ""
+    "Also war es echt. Enttäuschend. Sieht aus, als stünde dir ein weiterer schwerer Tag bevor."
 
 # game/script.rpy:2771
 translate german day_2_feb7ad83:
 
     # m "Hi... How are you doing?"
-    m ""
+    m "Hi... wie geht es dir?"
 
 # game/script.rpy:2773
 translate german day_2_aa0895d9:
 
     # b "Much better!"
-    b ""
+    b "Viel besser!"
 
 # game/script.rpy:2775
 translate german day_2_96743c66:
 
     # b "Mostly..."
-    b ""
+    b "Größtenteils..."
 
 # game/script.rpy:2776
 translate german day_2_4ad0386b:
 
     # b "I'm just glad I'm not alone."
-    b ""
+    b "Ich bin einfach froh, nicht allein zu sein."
 
 # game/script.rpy:2778
 translate german day_2_30d0c790:
