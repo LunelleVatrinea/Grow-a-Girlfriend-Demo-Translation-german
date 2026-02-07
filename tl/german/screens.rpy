@@ -48,7 +48,7 @@ translate german strings:
 
     # game/screens.rpy:908
     old "{color=#000000}{font=NotoSans-Regular.ttf}{size=30}content\nwarning"
-    new "{color=#000000}{font=NotoSans-Regular.ttf}{size=30}Inhaltswarnung"
+    new "{color=#000000}{font=NotoSans-Regular.ttf}{size=30}Inhalts-\nwarnung"
 
     # game/screens.rpy:1042
     old "Return"
@@ -180,7 +180,7 @@ translate german strings:
 
     # game/screens.rpy:1605
     old "The dialogue history is empty."
-    new ""
+    new "Der Dialogverlauf ist leer."
 
     # game/screens.rpy:1778
     old "Enter/Space"
