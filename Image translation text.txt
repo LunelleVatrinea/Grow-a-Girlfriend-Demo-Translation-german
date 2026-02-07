@@ -6,21 +6,21 @@ OPTIONS	OPTIONEN
 options	optionen
 SAVE	SPEICHERN
 save	speichern
-SKIP	SKIP
+SKIP	ÜBERSPRINGEN
 About	Info
 No!	Nein!
 Day	Tag
 The End	Ende
-content	inhalt
+content	Inhalt
 locked	gesperrt
-gallery	galerie
+gallery	Galerie
 -	
 NO REFUNDS	KEINE RÜCKGABEN
 	
 -	
 	
 CONGRATULATIONS!	GLÜCKWUNSCH!
-Thank you for playing the demo!	Danke fürs spielen der Demo!
+Thank you for playing the demo!	Danke für's spielen der Demo!
 Please consider wishlisting the full game.	Bitte ziehe in Erwägung das vollständige Spiel auf deine Wunschliste zu setzen.
 There are more mushroom girls waiting for you to grow them.	Es gibt noch weitere Pilz-Mädchen die darauf warten von dir gezüchtet zu werden.
 	
@@ -37,7 +37,7 @@ For your safety, please consume before its end of lifespan.	Für deine Sicherhei
 	
 NEW STOCK WILL BE AVAILABLE SOON!	NEUE WARE WIRD BALD VERFÜGBAR SEIN!
 Dear loyal customer	Geehrter loyaler Kunde
-If you would like to be notifed when our latest batch of mushroom kits is available, please wishlist the full game on Steam.	Wenn du benachrichtigt werden willst wenn unsere nächste Ladung an Pilzen verfügbar ist, füge das vollständige Spiel bitte deiner Wunschliste hinzu.
+If you would like to be notifed when our latest batch of mushroom kits is available, please wishlist the full game on Steam.	Wenn du benachrichtigt werden willst, wenn unsere nächste Ladung an Pilzen verfügbar ist, füge das vollständige Spiel bitte deiner Wunschliste hinzu.
 -	
 Click here	Deiner
 to	Wunschliste
@@ -51,7 +51,7 @@ little click...	ein Klick...
 	
 Shop	Shop
 	
-Meet'neat™ is not resposible for injury, financial loss or harm...	Treffen&essen™ ist nicht verantwortlich für Verletzungen, finanzieller Verlust oder sonstige Schäden...
+Meet'neat™ is not resposible for injury, financial loss or harm...	Treffen&essen™ ist nicht verantwortlich für Verletzungen, finanziellen Verlust oder sonstige Schäden...
 Warning: Do NOT discuss death with mushroom. This may cause a...	Warnung: Rede NICHT über Tod mit dem Pilz. Das könnte zu einer...
 	
 OUT OF STOCK	AUSVERKAUFT
@@ -65,12 +65,12 @@ We have all your needs covered!	Wir decken all deine Bedürfnisse ab!
 	
 Time of germination may naturally vary from 4 - 12 weeks.	Dauer der Keimung kann von 4 - 12 Wochen variieren.
 	
-Our signature choice! A lover that will conform to all your desires!	Unsere Lieblingswahl! Ein Liebhaber der all deinen Vorlieben entspricht!
+Our signature choice! A lover that will conform to all your desires!	Unsere Lieblingswahl! Ein Liebhaber der sich all deinen Vorlieben anpasst!
 Do whatever you please, and receive a lovely meal at the end of it!	Mach alles was du willst und bekomme am Schluss eine herzhafte Speise!
 	
-Are you a REAL man who needs a REAL woman?  Prepare for the best intimate experience of your life!	Bist du ein ECHTER Mann der eine ECHTE Frau braucht? Bereite dich auf das beste intime Erfahrung deines Lebens vor!
-You'll never find anything more dedicated to your satisfaction.	Du findest sonst nirgendwo so etwas hingebungsvolles für deine Zufriedenheit.
-It'll never want to keep its hands off you!	Es wird die Finger nicht von dir lassen könne!
+Are you a REAL man who needs a REAL woman?  Prepare for the best intimate experience of your life!	Bist du ein ECHTER Mann der eine ECHTE Frau braucht? Bereite dich auf das beste intime Erlebnis deines Lebens vor!
+You'll never find anything more dedicated to your satisfaction.	Du findest sonst nirgendwo etwas hingebungsvolleres für deine Zufriedenheit.
+It'll never want to keep its hands off you!	Es wird die Finger nicht von dir lassen können!
 	
 Sold for research purposes only.	Verkauf nur für Forschungszwecke.
 	
