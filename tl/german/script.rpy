@@ -3028,7 +3028,7 @@ translate german bored_3c2d8679:
 translate german bored_207f203d:
 
     # b "Please? We don't have to go out. It's okay!"
-    b "Bitte? Wir müssen ja nicht rausgehen. Es ist okay!""
+    b "Bitte? Wir müssen ja nicht rausgehen. Es ist okay!"
 
 # game/script.rpy:2086
 translate german bored_1263e952:
