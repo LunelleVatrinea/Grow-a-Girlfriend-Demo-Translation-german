@@ -1060,7 +1060,7 @@ translate german name_ae2922b8:
 translate german name_e4057397:
 
     # na "Thank you for talking to me every day..."
-    na ", dass du jeden Tag mit mir geredet hast..."
+    na "dass du jeden Tag mit mir geredet hast..."
 
 # game/script.rpy:1329
 translate german name_00447401:
@@ -1414,7 +1414,7 @@ translate german about_f62f440a:
 translate german about_c30b50cc:
 
     # m "How are you just... fine with getting eaten!? YOU'RE SAPIENT!"
-    m "Wie kannst du einfach... okay damit sein, gegessen zu werden!? DU BIST DOCH DENKFÄHIG!"
+    m "Wie kannst du dich... einfach damit abfinden, gegessen zu werden!? DU BIST DOCH EIN LEBEWESEN!"
 
 # game/script.rpy:1519
 translate german about_fa049442:
@@ -2218,7 +2218,7 @@ translate german about_661769cd:
 translate german about_396ca757:
 
     # "Yeah, don't overthink about how much you should ---- --------, and you'll be happy! Like her!"
-    "Genau, denk nicht zu viel drüber nach wie sehr du ---- --------- solltest, dann bist du glücklich! Wie sie!"
+    "Genau, denk nicht zu viel drüber nach wie sehr du\n ---- --------- solltest, dann bist du glücklich! Wie sie!"
 
 # game/script.rpy:1810
 translate german about_e67c9152:
@@ -4594,7 +4594,7 @@ translate german day_2_c22f1a5a:
 translate german day_2_e4a1e7fa:
 
     # b "Eeek! Now I'm actually getting excited!"
-    b "Eeek! Jetzt bin ich wirklich aufgeregt!"
+    b "Iiiek! Jetzt bin ich wirklich aufgeregt!"
 
 # game/script.rpy:2827
 translate german day_2_0c357a6b:
@@ -4636,7 +4636,7 @@ translate german day_2_c26e4d45:
 translate german day_2_5002405a:
 
     # b "Eeeek~! I'm sorry! I'm sorry! Just don't shout at me!"
-    b "Eeeek~! Tut mir leid! Tut mir leid! Aber bitte schrei mich nicht an!"
+    b "Iiiek~! Tut mir leid! Tut mir leid! Aber bitte schrei mich nicht an!"
 
 # game/script.rpy:2841
 translate german day_2_ff69f180:
@@ -4870,13 +4870,13 @@ translate german park_5e4b6347:
 translate german park_a4729f41:
 
     # "You can hear her all the way from here."
-    "Du kannst sie von bis hier her hören."
+    "Du kannst sie sogar von hier aus hören."
 
 # game/script.rpy:2967
 translate german park_d957cf0c:
 
     # m "(Is it ok for me to just let her proclaim her existence?)"
-    m "(Ist es in Ordnung für mich, dass ich sie ihre Existenz verkünden lasse?)"
+    m "(Ist es in Ordnung, dass ich sie einfach ihre Existenz verkünden lasse?)"
 
 # game/script.rpy:2968
 translate german park_d73f6646:
@@ -6304,7 +6304,7 @@ translate german choosedo_33a9b25c:
 translate german choosedo_668f1762:
 
     # b "I've become... a bad person."
-    b "Ich bin... ein schlechter Mensch geworden."
+    b "Ich bin... eine schlechte Person geworden."
 
 # game/script.rpy:3711
 translate german choosedo_0e4b9515:
@@ -6526,13 +6526,13 @@ translate german no4_877a26ff:
 translate german no4_b7c9f34b:
 
     # b "{sc=3}{b}{size=+40}{color=#000000}STOP TELLING ME WHAT TO DO!" with sshake
-    b "{sc=3}{b}{size=+40}{color=#000000}HÖR AUF MIR ZU SAGEN WAS ICH TUN SOLL!" with sshake
+    b "{sc=3}{b}{size=+16}{color=#000000}HÖR AUF MIR ZU SAGEN WAS ICH TUN SOLL!" with sshake
 
 # game/script.rpy:3871
 translate german no4_7489dc67:
 
     # b "{sc=7}{b}{size=+40}{color=#000000}I HATE THIS!"
-    b "{sc=7}{b}{size=+40}{color=#000000}ICH HASSE DAS!"
+    b "{sc=7}{b}{size=+16}{color=#000000}ICH HASSE DAS!"
 
 # game/script.rpy:3872
 translate german no4_99fab1ba:
@@ -6784,7 +6784,7 @@ translate german day1_watered_4_b583b956:
 translate german day1_watered_4_854c2cda:
 
     # b "Don't be! Remember our first interaction? Retract your sorry!"
-    b "Musst du nicht! Errinerst du dich an unsere erste Interaktion? Nimm deine Entschuldigung zurück!"
+    b "Muss es dir nicht! Errinerst du dich an unsere erste Interaktion? Nimm deine Entschuldigung zurück!"
 
 # game/script.rpy:4425
 translate german day1_watered_4_72842bc8:
@@ -6946,7 +6946,7 @@ translate german day1_watered_4_24f52875:
 translate german day1_watered_4_4b25cf15:
 
     # "You slice the mushroom flesh and sauté it with butter, garlic and herbs, then toss it with some pasta."
-    "Du zerhackst das Pilzfleisch und dünstest es mit Butter, Knoblauch und Kräutern, dann in ein bisschen Pasta mischen."
+    "Du zerhackst das Pilzfleisch und dünstest es mit Butter, Knoblauch und Kräutern, und vermischt es in ein bisschen Pasta."
 
 # game/script.rpy:4516
 translate german day1_watered_4_f16d2bd6:
@@ -7096,7 +7096,7 @@ translate german day1_watered_4_6f7efc35:
 translate german day1_watered_4_a501aa7f:
 
     # m "Jesus."
-    m "Jesus."
+    m "Jesus Christus..."
 
 # game/script.rpy:4581
 translate german day1_watered_4_ac040cc7:
@@ -7108,7 +7108,7 @@ translate german day1_watered_4_ac040cc7:
 translate german day1_watered_4_c232a492:
 
     # m "I am NOT dropping religion on you the day before..."
-    m "Ich werde dich NICHT über Religion an deinem letzten Tag belehren..."
+    m "Ich werde dich NICHT an deinem letzten Tag über Religion belehren..."
 
 # game/script.rpy:4584
 translate german day1_watered_4_e612037c_1:
@@ -7120,7 +7120,7 @@ translate german day1_watered_4_e612037c_1:
 translate german day1_watered_4_d9e3658f:
 
     # m "I really have to do it, don't I? Is there no way you don't have to... die... tomorrow?"
-    m "Ich muss es wirklich durchziehen, nicht wahr? Gibt es keinen anderen Weg, bei dem du nicht... morgen... stirbst?"
+    m "Ich muss es wirklich durchziehen, oder? Gibt es keinen anderen Weg, bei dem du nicht... morgen... stirbst?"
 
 # game/script.rpy:4588
 translate german day1_watered_4_9bb70378:
@@ -7240,7 +7240,7 @@ translate german pizza_f8f36dab:
 translate german pizza_8cabf92e:
 
     # b "But it's just like talking! Only you can't see each other, right?"
-    b "Aber es ist doch einfach wie reden! Nur, dass wir uns nicht sehen, richtig?"
+    b "Aber es ist doch einfach nur wie reden! Nur, dass wir uns nicht sehen, richtig?"
 
 # game/script.rpy:4630
 translate german pizza_5f0efae1:
@@ -8248,7 +8248,7 @@ translate german day1_watered_5_ea2bda2e:
 translate german day1_watered_5_dc715129:
 
     # b "EEK! IT'S SO COLD! I LOVE IT!"
-    b "EEK! ES IST SO KALT! ICH LIEBE ES!"
+    b "IIEK! ES IST SO KALT! ICH LIEBE ES!"
 
 # game/script.rpy:5038
 translate german day1_watered_5_8818d85e:
@@ -8746,13 +8746,13 @@ translate german day1_watered_5_2efc3c96:
 translate german day1_watered_5_62379a9b:
 
     # b "Don't worry! I've had a great life. I couldn't have asked for a better friend than you."
-    b "Mach dir keine Sorgen! Ich hatte ein schönes Leben. Ich hätte für keinen besseren Freund als dich fragen können."
+    b "Mach dir keine Sorgen! Ich hatte ein schönes Leben. Ich hätte nach keinem besseren Freund als dich fragen können."
 
 # game/script.rpy:5253
 translate german day1_watered_5_5c97110c:
 
     # "Is that really true? You only took her to a field, a park, and a beach!"
-    "Ist das wirklich wahr? Du hast sie nur mit auf ein Feld, einen Park, und einen Strand mitgenommen!"
+    "Ist das wirklich wahr? Du hast sie nur zu einem Feld, einem Park, und einem Strand mitgenommen!"
 
 # game/script.rpy:5254
 translate german day1_watered_5_a4e548a6:
@@ -9606,7 +9606,7 @@ translate german strings:
 
     # game/script.rpy:1016
     old "Laptop-chan is too busy downloading anime to care."
-    new "Laptop-chan ist zu beschäftigt Anime zu downloaden um sich dafür zu interessieren."
+    new "Laptop-chan ist zu beschäftigt Anime zu downloaden um Interesse zu zeigen."
 
     # game/script.rpy:1022
     old "It's lasted you since you were preteen, but you're not allowed a new one until it stops working."
@@ -9622,7 +9622,7 @@ translate german strings:
 
     # game/script.rpy:1083
     old "Laptop-chan is STILL too busy downloading anime to care."
-    new "Laptop-chan ist IMMERNOCH zu beschäftigt Anime zu downloaden um sich dafür zu interessieren."
+    new "Laptop-chan ist IMMERNOCH zu beschäftigt Anime zu downloaden um Interesse zu zeigen."
 
     # game/script.rpy:1086
     old "Blahaj is so proud of you!"
@@ -9650,7 +9650,7 @@ translate german strings:
 
     # game/script.rpy:1188
     old "Button End 2: Mush-room bound."
-    new "Button Ende 2: Pilz gebunden."
+    new "Button Ende 2: Zimmergebunden."
 
     # game/script.rpy:1204
     old "It said please..."
