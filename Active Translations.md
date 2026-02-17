@@ -13,4 +13,4 @@ Portuguese —
 
 Lithuanian —
 
-German — contact@lunaeleanor.eu.org
+German — lunellevt@gmail.com
