@@ -13,4 +13,4 @@ Portuguese —
 
 Lithuanian —
 
-German — lunellevt@gmail.com
+German — lunellevt@gmail.com, kripary@gmail.com
