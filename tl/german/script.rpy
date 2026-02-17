@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2025-07-14 20:26
+# TODO: Translation updated at 2025-07-14 20:26
 
 # game/script.rpy:677
 translate german start_be4321ac:
 
     # "As you wake up, your first thought is:"
-    "Als du aufwachst ist dein erster Gedanke:"
+    "Als du aufwachst, ist dein erster Gedanke:"
 
 # game/script.rpy:678
 translate german start_62ebeb28:
@@ -898,7 +898,7 @@ translate german day1_watered_58a4ad3c:
 translate german day1_watered_a0a4efe5:
 
     # m "Uh... my name... (I wasn't ready to socialise! I'm forgetting my NAME!)"
-    m "Ehm... Mein Name... (Ich war nicht bereit für sozialen Kontakt! Jetzt hab ich sogar meinen NAMEN vergessen!)"
+    m "Ehm... Mein Name... (Ich war nicht bereit für sozialen Kontakt! Jetzt hab' ich sogar meinen NAMEN vergessen!)"
 
 # game/script.rpy:1274
 translate german name_9d6d09a6:
@@ -1018,7 +1018,7 @@ translate german name_987cde6e:
 translate german name_636fc77b:
 
     # na "Whoopsie! Got carried away there and blew a hole into your eardrums, hehe."
-    na "Upsala! Hab mich wohl ein bisschen mitreißen lassen und dir ein Loch ins Trommelfell gepustet, hehe."
+    na "Upsala! Hab' mich wohl ein bisschen mitreißen lassen und dir ein Loch ins Trommelfell gepustet, hehe."
 
 # game/script.rpy:1318
 translate german name_67a1d878:
@@ -1162,13 +1162,13 @@ translate german day1_watered_2_632b2ea7:
 translate german day1_watered_2_cc121d2f:
 
     # na "But I like how I am now. It feels right!"
-    na "Aber ich mag wie ich jetzt bin. Es fühlt sich richtig an!"
+    na "Aber ich mag, wie ich jetzt bin. Es fühlt sich richtig an!"
 
 # game/script.rpy:1392
 translate german day1_watered_2_9a7c1d15:
 
     # ba "As for WHAT I am... I've already got a name: Agaricus bisporus."
-    ba "WAS ich genau bin... ich hab schon ’nen Namen: Agaricus bisporus."
+    ba "WAS ich genau bin... ich hab' schon ’nen Namen: Agaricus bisporus."
 
 # game/script.rpy:1393
 translate german day1_watered_2_e612037c:
@@ -1312,7 +1312,7 @@ translate german about_38930f18:
 translate german about_5b2dc09e:
 
     # m "The people who made you... they say stuff like..."
-    m "Die Leute die dich erschaffen haben... die sagen so Sachen wie..."
+    m "Die Leute, die dich erschaffen haben... die sagen so Sachen wie..."
 
 # game/script.rpy:1489
 translate german about_5a5075d7:
@@ -1372,7 +1372,7 @@ translate german about_d6abce0f:
 translate german about_d910b8af:
 
     # b "Eat me WHENEVER you want!" with sshake
-    b "Iss mich WANN IMMER du willst!" with sshake
+    b "Iss mich, WANN IMMER du willst!" with sshake
 
 # game/script.rpy:1507
 translate german about_15ca5996:
@@ -1450,7 +1450,7 @@ translate german about_14cf17b6:
 translate german about_34f92eeb:
 
     # m "You were the one who made me do it!"
-    m "Du bist der Grund, warum ich das überhaupt gemacht hab!"
+    m "Du bist der Grund, warum ich das überhaupt gemacht hab'!"
 
 # game/script.rpy:1547
 translate german about_e2d4ba97:
@@ -1504,7 +1504,7 @@ translate german about_3c6732e7:
 translate german about_76cf3194:
 
     # m "Ugh... What mess have I gotten myself into?"
-    m "Ugh ... In was für ein Chaos hab ich mich da nur reingeritten?"
+    m "Ugh ... In was für ein Chaos hab' ich mich da nur reingeritten?"
 
 # game/script.rpy:1559
 translate german about_505fa703:
@@ -1522,7 +1522,7 @@ translate german about_c5781b57:
 translate german about_bb6bcc55:
 
     # m "(I can't kick it out. I raised it! I talked to it for over a month!)"
-    m "Ich kann sie nicht rauswerfen. Ich hab sie großgezogen! Ich hab mit ihr über einen Monat lang gesprochen!"
+    m "Ich kann sie nicht rauswerfen. Ich hab' sie großgezogen! Ich hab' mit ihr über einen Monat lang gesprochen!"
 
 # game/script.rpy:1564
 translate german about_8fdc5687:
@@ -1756,7 +1756,7 @@ translate german about_12791339:
 translate german about_364976db:
 
     # b "Well one thing I really wanna know about you is..."
-    b "Also, eine Sache würd ich echt gern über dich wissen..."
+    b "Also, eine Sache würd' ich echt gern über dich wissen..."
 
 # game/script.rpy:1641
 translate german about_caf4866b:
@@ -1768,13 +1768,13 @@ translate german about_caf4866b:
 translate german about_7d72bc5a:
 
     # m "This crap again? I told you-"
-    m "Schon wieder dieser Mist? Ich hab dir doch gesagt-"
+    m "Schon wieder dieser Mist? Ich hab' dir doch gesagt-"
 
 # game/script.rpy:1645
 translate german about_649534eb:
 
     # b "No no! It's not flirting, I promise. It's just like when you tell your homies they're looking good."
-    b "Nein, nein! Das ist kein Flirt, ehrlich! Das ist wie wenn man seinen Kumpels sagt, dass sie gut aussehen."
+    b "Nein, nein! Das ist kein Flirt, ehrlich! Das ist wie, wenn man seinen Kumpels sagt, dass sie gut aussehen."
 
 # game/script.rpy:1647
 translate german about_eacfb1ff:
@@ -1846,7 +1846,7 @@ translate german about_9e4eca09:
 translate german about_8ed1e1e0:
 
     # b "When I ask if I look good, it's an opportunity to build my confidence! Not DISMISS me!"
-    b "Wenn ich frage ob ich gut aussehe, ist das eine Chance mein Selbstbewusstsein aufzubauen! Nicht, um ABGEWIESEN zu werden!"
+    b "Wenn ich frage, ob ich gut aussehe, ist das eine Chance mein Selbstbewusstsein aufzubauen! Nicht, um ABGEWIESEN zu werden!"
 
 # game/script.rpy:1673
 translate german about_bc52595f:
@@ -1948,7 +1948,7 @@ translate german about_2fe3751f:
 translate german about_55d84bd1:
 
     # m "But I'm going to say something stupid!"
-    m "Aber ich werd etwas total dämliches sagen!"
+    m "Aber ich werd' etwas total dämliches sagen!"
 
 # game/script.rpy:1706
 translate german about_e7d95b4b:
@@ -2296,13 +2296,13 @@ translate german explain_8371a175:
 translate german explain_de9e63f2:
 
     # m "As a kid, I was healthy and young, so didn't worry about it. I thought scientists would have discovered immortality by the time I got older and we'd all be fine."
-    m "Als Kind war ich gesund und jung, also hab ich mir keine Sorgen darüber gemacht. Ich dachte mir Wissenschaftler würden schon Unsterblichkeit finden bis ich älter bin, und dann wäre alles in Ordnung."
+    m "Als Kind war ich gesund und jung, also hab' ich mir keine Sorgen darüber gemacht. Ich dachte mir Wissenschaftler würden schon Unsterblichkeit finden, bis ich älter bin, und dann wäre alles in Ordnung."
 
 # game/script.rpy:1836
 translate german explain_12c223cf:
 
     # m "But now I know that's not going to happen. The world's too corrupt, and everyone else has given up. So I have too. I'm gonna die and that's that."
-    m "Aber jetzt weiß ich, dass das nicht passieren wird. Die Welt ist korrupt, und alle anderen haben aufgegeben. Also hab ich das auch. Ich werde sterben, und das war's dann eben."
+    m "Aber jetzt weiß ich, dass das nicht passieren wird. Die Welt ist korrupt, und alle anderen haben aufgegeben. Also hab' ich das auch. Ich werde sterben, und das war's dann eben."
 
 # game/script.rpy:1838
 translate german explain_6496054e:
@@ -2380,7 +2380,7 @@ translate german explain_670ab928:
 translate german explain_53ddc7dc:
 
     # b "I didn't..."
-    b "Ich hab nicht..."
+    b "Ich hab' nicht..."
 
 # game/script.rpy:1860
 translate german explain_391ee2b2:
@@ -2434,7 +2434,7 @@ translate german explain_d7ad6608:
 translate german explain_0b0926e5:
 
     # m "Um... because I watered you?"
-    m "Ehm... Weil ich dich gewässert hab?"
+    m "Ehm... Weil ich dich gewässert hab'?"
 
 # game/script.rpy:1875
 translate german explain_3e18e670:
@@ -2596,7 +2596,7 @@ translate german why_choose_508cb228:
 translate german why_choose_b04f5131:
 
     # m "Calm down. I know something that might help."
-    m "Beruhige dich. Ich kenn da etwas was dir helfen könnte."
+    m "Beruhige dich. Ich kenn da etwas, was dir helfen könnte."
 
 # game/script.rpy:1942
 translate german why_choose_e184d142:
@@ -2698,13 +2698,13 @@ translate german why_choose_46663d92:
 translate german why_choose_27bf3b54:
 
     # b "Take me out somewhere! I'm already bored of this biscuit of a room!"
-    b "Nimm mich irgendwohin mit! Ich hab diese keks-trockene Bude jetzt schon satt!"
+    b "Nimm mich irgendwohin mit! Ich hab' diese keks-trockene Bude jetzt schon satt!"
 
 # game/script.rpy:1978
 translate german bored_5b38d3d9:
 
     # "Outside? She wants to go OUTSIDE with you? Oh, it's time to show Button how pathetic you really are."
-    "Draussen? Sie will nach DRAUSSEN mit dir gehen? Oh, es ist Zeit Button zu zeigen wie erbärmlich du wirklich bist."
+    "Draussen? Sie will nach DRAUSSEN mit dir gehen? Oh, es ist Zeit Button zu zeigen, wie erbärmlich du wirklich bist."
 
 # game/script.rpy:1980
 translate german bored_e6798436:
@@ -3100,7 +3100,7 @@ translate german bored_e612037c_1:
 translate german bored_1a8cbe97:
 
     # m "I didn't realise... I was talking outloud..."
-    m "Ich hab gar nicht gemerkt... dass ich laut rede..."
+    m "Ich hab' gar nicht gemerkt... dass ich laut rede..."
 
 # game/script.rpy:2126
 translate german bored_d12b7f36:
@@ -3256,7 +3256,7 @@ translate german leavehouse_15911943:
 translate german leavehouse_eb809b9f:
 
     # b "Then get dirty WITH ME!"
-    b "Dann werd MIT MIR schmutzig!"
+    b "Dann werd' MIT MIR schmutzig!"
 
 # game/script.rpy:2287
 translate german leavehouse_bbb136c8:
@@ -3436,7 +3436,7 @@ translate german leavehouse_72517409:
 translate german leavehouse_28bd1877:
 
     # m "What? Ugh... I told you-"
-    m "Was? Ugh... ich hab dir doch gesagt-"
+    m "Was? Ugh... ich hab' dir doch gesagt-"
 
 # game/script.rpy:2389
 translate german leavehouse_f53e8b7a:
@@ -3448,7 +3448,7 @@ translate german leavehouse_f53e8b7a:
 translate german leavehouse_36f8716d:
 
     # m "I don't have the energy for this..."
-    m "Ich hab dafür gerade keine Energie..."
+    m "Ich hab' dafür gerade keine Energie..."
 
 # game/script.rpy:2392
 translate german leavehouse_873fffe4:
@@ -3694,7 +3694,7 @@ translate german leavehouse_e89226b7:
 translate german leavehouse_a4dc9ef5:
 
     # b "Please, go ahead!"
-    b "Bitte, bedien dich!"
+    b "Bitte, bedien' dich!"
 
 # game/script.rpy:2475
 translate german leavehouse_b6029a46:
@@ -4498,7 +4498,7 @@ translate german day_2_30d0c790:
 translate german day_2_b1be534b:
 
     # b "Are you ok? I'm sorry if I ruined your night with all of that."
-    b "Geht's dir gut? Es tut mir leid wenn ich deine Nacht mit all dem ruiniert habe."
+    b "Geht's dir gut? Es tut mir leid, wenn ich deine Nacht mit all dem ruiniert habe."
 
 # game/script.rpy:2782
 translate german day_2_e074566f:
@@ -4780,7 +4780,7 @@ translate german park_545a6ef2:
 translate german park_6ad5d22a:
 
     # "It's a little busier than yesterday since it's the middle of the day."
-    "Es ist ein bisschen mehr los als gestern weil es jetzt mitten am Tag ist."
+    "Es ist ein bisschen mehr los als gestern, weil es jetzt mitten am Tag ist."
 
 # game/script.rpy:2935
 translate german park_ec7756c9:
@@ -4834,13 +4834,13 @@ translate german park_c4f76045:
 translate german park_2163498d:
 
     # "You feel anxious as you watch her try to play there, despite being a fully-grown adult."
-    "Du bist besorgt, als du siehst wie sie versucht dort zu spielen, obwohl sie erwachsen ist."
+    "Du bist besorgt, als du siehst, wie sie versucht, dort zu spielen, obwohl sie erwachsen ist."
 
 # game/script.rpy:2957
 translate german park_1011626c:
 
     # "She's soon caught the attention of two kids on the slide, one of whom starts asking her what exactly she's supposed to be."
-    "Schnell zieht sie die Aufmerksamkeit von zwei Kindern bei der Rutsche auf sich. Eines von ihnen fängt an zu fragen was sie genau sein soll."
+    "Schnell zieht sie die Aufmerksamkeit von zwei Kindern bei der Rutsche auf sich. Eines von ihnen fängt an zu fragen, was sie genau sein soll."
 
 # game/script.rpy:2960
 translate german park_850ef128:
@@ -4858,7 +4858,7 @@ translate german park_74deaddb:
 translate german park_0b3d780e:
 
     # b "Can I play with you? Please? I'm sorry. I don't know how it works..."
-    b "Kann ich mit dir spielen? Bitte? Es tut mir leid. Ich weiß nicht wie das geht..."
+    b "Kann ich mit dir spielen? Bitte? Es tut mir leid. Ich weiß nicht, wie das geht..."
 
 # game/script.rpy:2964
 translate german park_5e4b6347:
@@ -4984,7 +4984,7 @@ translate german park_0c1787fa:
 translate german park_bef58a73:
 
     # m "Straighten your legs when you're at the top to go faster!"
-    m "Streck deine Beine aus wenn du oben bist um schneller zu werden!"
+    m "Streck deine Beine aus, wenn du oben bist, um schneller zu werden!"
 
 # game/script.rpy:2999
 translate german park_7b6fe4a3:
@@ -5008,7 +5008,7 @@ translate german park_9bcbc0df:
 translate german park_46a45301:
 
     # m "Just have some patience. A dog will probably show up sooner or later."
-    m "Hab einfach ein bisschen Geduld. Ein Hund wird sicher früher oder später auftauchen."
+    m "Hab' einfach ein bisschen Geduld. Ein Hund wird sicher früher oder später auftauchen."
 
 # game/script.rpy:3008
 translate german park_4906b344:
@@ -5122,7 +5122,7 @@ translate german park_850ef128_2:
 translate german park_6e8001b9:
 
     # b "We can go home if you want... I've already played on the swing... and there aren't any dogs here either."
-    b "Wir können nachhause gehen wenn du willst... ich habe schon auf der Schaukel gespielt... und Hunde sind hier auch keine."
+    b "Wir können nachhause gehen, wenn du willst... ich habe schon auf der Schaukel gespielt... und Hunde sind hier auch keine."
 
 # game/script.rpy:3047
 translate german park_df5aa6b8:
@@ -5146,7 +5146,7 @@ translate german park_01972d38:
 translate german park_9d0fb1a2:
 
     # "She leaves without waiting for your answer."
-    "Sie geht ohne auf deine Antwort zu warten."
+    "Sie geht, ohne auf deine Antwort zu warten."
 
 # game/script.rpy:3056
 translate german park_b583b956:
@@ -5194,13 +5194,13 @@ translate german park_381bb799:
 translate german park_d198e50f:
 
     # "Button sprints over to the nearby hotdog stand and talks urgently to the lady working there."
-    "Button sprintet zu einem nahegelegenen Hotdog-Stand und spricht eilig mit der Dame die dort arbeitet."
+    "Button sprintet zu einem nahegelegenen Hotdog-Stand und spricht eilig mit der Dame, die dort arbeitet."
 
 # game/script.rpy:3086
 translate german park_1c8ca069:
 
     # "Button sprints over to the nearby hotdog stand and begins chatting to the lady working there."
-    "Button sprintet zu einem nahegelegenen Hotdog-Stand und beginnt mit der Dame die dort arbeitet zu quatschen."
+    "Button sprintet zu einem nahegelegenen Hotdog-Stand und beginnt mit der Dame, die dort arbeitet zu quatschen."
 
 # game/script.rpy:3088
 translate german park_6bbf9b66:
@@ -5278,7 +5278,7 @@ translate german park_cf74b48f:
 translate german park_ee27bcb9:
 
     # b "Did I do well? I got you food!"
-    b "Hab ich das gut gemacht? Ich hab dir Essen gebracht!"
+    b "Hab' ich das gut gemacht? Ich hab' dir Essen gebracht!"
 
 # game/script.rpy:3110
 translate german park_6cf1860b:
@@ -5296,7 +5296,7 @@ translate german park_ab8f607f:
 translate german park_b23ed1c8:
 
     # b "You were in trouble. There was no time to be afraid."
-    b "Du warst in Schwierigkeiten. Es gab keine Zeit um Angst zu haben."
+    b "Du warst in Schwierigkeiten. Es gab keine Zeit, um Angst zu haben."
 
 # game/script.rpy:3116
 translate german park_e8d969b6:
@@ -5314,7 +5314,7 @@ translate german park_bbc6424a:
 translate german park_86f27f85:
 
     # "Starvation is the best seasoning: It's the best hotdog you've ever eaten!"
-    "Verhungern ist die beste Zutat: Es ist der beste Hotdog den du jemals gegessen hast!"
+    "Verhungern ist die beste Zutat: Es ist der beste Hotdog, den du jemals gegessen hast!"
 
 # game/script.rpy:3121
 translate german park_9eefde9a:
@@ -5470,7 +5470,7 @@ translate german returnhome_3ddd5d20:
 translate german returnhome_0d05bb51:
 
     # m "I'm going to cook some ramen in the kitchenette quick. Be right back."
-    m "Ich koche schnell ein paar Nudeln in der Kochnische. Bin gleich zurück."
+    m "Ich koche schnell ein paar Nudeln in der Kochnische. Bin' gleich zurück."
 
 # game/script.rpy:3208
 translate german returnhome_0dbfa178:
@@ -5512,7 +5512,7 @@ translate german returnhome_792de793:
 translate german returnhome_4d96d47d:
 
     # b "You don't need to have meaning! It doesn't matter if you're never going to live again! You can just..."
-    b "Du brauchst keine Bedeutung haben! Es spielt keine Rolle ob du nie wieder leben wirst! Du kannst einfach..."
+    b "Du brauchst keine Bedeutung haben! Es spielt keine Rolle, ob du nie wieder leben wirst! Du kannst einfach..."
 
 # game/script.rpy:3220
 translate german returnhome_850ef128:
@@ -5530,13 +5530,13 @@ translate german returnhome_02d46461:
 translate german returnhome_81b59b2d:
 
     # b "I wonder if it's going to hurt..."
-    b "Ich frage mich ob es wehtun wird..."
+    b "Ich frage mich, ob es wehtun wird..."
 
 # game/script.rpy:3225
 translate german returnhome_1176e860:
 
     # b "Am I going to feel lonely? Will it just be me? Floating in the nothingness after I die?"
-    b "Werde ich mich einsam fühlen? Wird es nur mich geben? Im ewigen Nichts schwebend nachdem ich sterbe?"
+    b "Werde ich mich einsam fühlen? Wird es nur mich geben? Im ewigen Nichts schwebend, nachdem ich sterbe?"
 
 # game/script.rpy:3226
 translate german returnhome_93c49580:
@@ -5554,7 +5554,7 @@ translate german returnhome_7c6ae8f0:
 translate german returnhome_d2956582:
 
     # "Button stands tensely in the centre of the room while she waits."
-    "Button steht angespannt in der Mitte des Raumes während sie wartet."
+    "Button steht angespannt in der Mitte des Raumes, während sie wartet."
 
 # game/script.rpy:3231
 translate german returnhome_a20cefa7_1:
@@ -5680,7 +5680,7 @@ translate german returnhome_74305302:
 translate german returnhome_9654d4ad:
 
     # m "Um, I'm gonna eat now. How about we watch something together?"
-    m "Ähm, Ich werde jetzt was essen. Wie wäre es wenn wir uns etwas anschauen?"
+    m "Ähm, Ich werde jetzt was essen. Wie wäre es, wenn wir uns etwas anschauen?"
 
 # game/script.rpy:3298
 translate german returnhome_9ec61d04:
@@ -5752,7 +5752,7 @@ translate german returnhome_4a6d2e65:
 translate german returnhome_381b42e0:
 
     # bna "He doesn't like you when you're sad. He wouldn't want to be your friend anymore."
-    bna "Er mag dich nicht wenn du traurig bist. Er würde nicht mehr mit dir befreundet sein wollen."
+    bna "Er mag dich nicht, wenn du traurig bist. Er würde nicht mehr mit dir befreundet sein wollen."
 
 # game/script.rpy:3426
 translate german returnhome_60b01ab5:
@@ -5788,7 +5788,7 @@ translate german returnhome_79785ed3:
 translate german returnhome_dec566ac:
 
     # m "I was wondering..."
-    m "Ich hab mich gefragt..."
+    m "Ich hab' mich gefragt..."
 
 # game/script.rpy:3461
 translate german returnhome_737005f0:
@@ -5920,7 +5920,7 @@ translate german choosedo_7c879e26:
 translate german choosedo_20bcf869:
 
     # bna "You're replacable. He's just going to order another one when you die. Does he even care?"
-    bna "Du bist ersetzbar. Er bestellt sich einfach einen weiteren wenn du tot bist. Kümmert es ihn überhaupt?"
+    bna "Du bist ersetzbar. Er bestellt sich einfach einen weiteren, wenn du tot bist. Kümmert es ihn überhaupt?"
 
 # game/script.rpy:3517
 translate german choosedo_9c77071f:
@@ -5974,7 +5974,7 @@ translate german choosedo_92d32886:
 translate german choosedo_a2af7b77:
 
     # m "We'll do anything you want!"
-    m "Wir machen alles was du willst!"
+    m "Wir machen alles, was du willst!"
 
 # game/script.rpy:3533
 translate german choosedo_69411914:
@@ -6184,7 +6184,7 @@ translate german choosedo_571a4a9e:
 translate german choosedo_25931ba0:
 
     # m "You're not in the right mind to be making a decision like that..."
-    m "Du bist nicht bei klarem Verstand um solch eine Entscheidung zu treffen..."
+    m "Du bist nicht bei klarem Verstand, um solch eine Entscheidung zu treffen..."
 
 # game/script.rpy:3676
 translate german choosedo_74998515:
@@ -6226,7 +6226,7 @@ translate german choosedo_b774c2de:
 translate german choosedo_a9aedebc:
 
     # b "You don't know what it's like... feeling your body and mind start to shrivel."
-    b "Du verstehst nicht wie es sich anfühlt wenn... dein Körper und Geist beginnen zu verschrumpeln."
+    b "Du verstehst nicht, wie es sich anfühlt, wenn... dein Körper und Geist beginnen zu verschrumpeln."
 
 # game/script.rpy:3683
 translate german choosedo_e1d0d6ba:
@@ -6256,7 +6256,7 @@ translate german choosedo_90e677e7:
 translate german choosedo_1cea9a9c:
 
     # b "I can't just pretend I'm happy anymore."
-    b "Ich kann nicht mehr so tun als wäre ich glücklich."
+    b "Ich kann nicht mehr so tun, als wäre ich glücklich."
 
 # game/script.rpy:3688
 translate german choosedo_21ac637e:
@@ -6274,7 +6274,7 @@ translate german choosedo_9d38a483:
 translate german choosedo_92d5b6cb:
 
     # m "Button, I know what you're going through. I can help you get better! Let's just hug and-"
-    m "Button, Ich weiß was du durchlebst. Ich kann dir helfen! Lass uns einfach umarmen und-"
+    m "Button, Ich weiß, was du durchlebst. Ich kann dir helfen! Lass uns einfach umarmen und-"
 
 # game/script.rpy:3701
 translate german choosedo_eee80796:
@@ -6412,7 +6412,7 @@ translate german no1_8cba14f4:
 translate german no2_e6bf6470:
 
     # m "Button, I... I know what you're going through. Trust me."
-    m "Button, ich... ich weiß was du durchmachst. Vertrau mir."
+    m "Button, ich... ich weiß, was du durchmachst. Vertrau mir."
 
 # game/script.rpy:3775
 translate german no2_4da925b3:
@@ -6538,7 +6538,7 @@ translate german no4_7489dc67:
 translate german no4_99fab1ba:
 
     # m "Please stop shouting! I can't help you if-"
-    m "Bitte hör auf zu schreien! Ich kann dir nicht helfen wenn du-"
+    m "Bitte hör auf zu schreien! Ich kann dir nicht helfen, wenn du-"
 
 # game/script.rpy:3873
 translate german no4_231cf544:
@@ -6754,7 +6754,7 @@ translate german killher_37aa2ed2:
 translate german killher_30b26dd6:
 
     # b "Nah... It feels sooooo much nicer when you do it!"
-    b "Neh... Es fühlt sich sooooo viel besser an wenn du es tust!"
+    b "Neh... Es fühlt sich sooooo viel besser an, wenn du es tust!"
 
 # game/script.rpy:4407
 translate german day1_watered_4_19adf484:
@@ -6772,7 +6772,7 @@ translate german day1_watered_4_4004d440:
 translate german day1_watered_4_c1f2c54a:
 
     # m "(The only thing I have to eat are instant noodles, and I'm getting pretty tired of those.)"
-    m "(Das Einzige was ich zu essen habe sind Instantnudeln, und die stehn mir schon bis hier.)"
+    m "(Das Einzige was ich zu essen habe sind Instantnudeln, und die steh'n mir schon bis hier.)"
 
 # game/script.rpy:4421
 translate german day1_watered_4_b583b956:
@@ -6808,7 +6808,7 @@ translate german day1_watered_4_e00eefba:
 translate german day1_watered_4_7cb2c468:
 
     # m "I don't know how I'm going to eat you, but-"
-    m "Ich weiß nicht wie ich dich essen soll, aber-"
+    m "Ich weiß nicht, wie ich dich essen soll, aber-"
 
 # game/script.rpy:4431
 translate german day1_watered_4_6c8a3f14:
@@ -6934,7 +6934,7 @@ translate german day1_watered_4_f5135efb:
 translate german day1_watered_4_df95931a:
 
     # "She stopped responding after you chopped off her head."
-    "Sie reagiert nichtmehr seit du ihren Kopf abgehackt hast."
+    "Sie reagiert nichtmehr, seit du ihren Kopf abgehackt hast."
 
 # game/script.rpy:4485
 translate german day1_watered_4_24f52875:
@@ -6988,7 +6988,7 @@ translate german day1_watered_4_a297d31b:
 translate german day1_watered_4_8e8319eb:
 
     # m "I've got like... a whole box of them under my bed."
-    m "Ich hab so ziemlich... eine ganze Box unter meinem Bett."
+    m "Ich hab' so ziemlich... eine ganze Box unter meinem Bett."
 
 # game/script.rpy:4548
 translate german day1_watered_4_ab8912f9:
@@ -7018,7 +7018,7 @@ translate german day1_watered_4_31b94495:
 translate german day1_watered_4_5091f912:
 
     # b "It seems you're getting attached to me, %(player_name)s. That's very dangerous."
-    b "Es scheint als würdest du anhänglich werden, %(player_name)s. Das ist sehr gefährlich."
+    b "Es scheint, als würdest du anhänglich werden, %(player_name)s. Das ist sehr gefährlich."
 
 # game/script.rpy:4556
 translate german day1_watered_4_057b0bfa:
@@ -7204,7 +7204,7 @@ translate german pizza_5451b25f:
 translate german pizza_6804d82f:
 
     # m "Sometimes I forget my order or address or how to even talk because I'm so nervous, or they can't hear me..."
-    m "Manchmal vergesse ich sogar meine Bestellung oder Adresse, oder wie man überhaupt redet weil ich so nervös bin, oder sie hören mich nicht..."
+    m "Manchmal vergesse ich sogar meine Bestellung oder Adresse, oder wie man überhaupt redet, weil ich so nervös bin, oder sie hören mich nicht..."
 
 # game/script.rpy:4621
 translate german pizza_cf947c15:
@@ -7258,19 +7258,19 @@ translate german pizza_3088ec54:
 translate german pizza_9d4ffe9e:
 
     # m "But... how will you remember the address and the name of the pizzas I want? What if you forget?"
-    m "Aber... wie willst du dir die Adresse und den Namen der Pizzen merken, die ich will? Was ist wenn du's vergisst?"
+    m "Aber... wie willst du dir die Adresse und den Namen der Pizzen merken, die ich will? Was ist, wenn du's vergisst?"
 
 # game/script.rpy:4637
 translate german pizza_16036d54:
 
     # b "I've got a good memory! I can even remember things from when I was just a lil spore."
-    b "Ich hab' ein gutes Gedächtnis! Ich erinnere mich sogar noch an Sachen die ich gehört habe als ich noch eine kleine Spore war."
+    b "Ich hab' ein gutes Gedächtnis! Ich erinnere mich sogar noch an Sachen die ich gehört habe, als ich noch eine kleine Spore war."
 
 # game/script.rpy:4638
 translate german pizza_ed08ae8f:
 
     # b "I can remember the sound of your voice, though I couldn't tell what you were saying back then."
-    b "Ich erinnere mich an den Klang deiner Stimme, ich konnte damals aber nicht verstehen was du gesagt hast."
+    b "Ich erinnere mich an den Klang deiner Stimme, ich konnte damals aber nicht verstehen, was du gesagt hast."
 
 # game/script.rpy:4640
 translate german pizza_26a0e3d3:
@@ -7306,7 +7306,7 @@ translate german pizza_0190e127:
 translate german pizza_4da52a1a:
 
     # b "Thanks! Now tell me what I need to remember..."
-    b "Danke! Jetzt erzähl mir was ich mir merken muss..."
+    b "Danke! Jetzt erzähl mir, was ich mir merken muss..."
 
 # game/script.rpy:4656
 translate german pizza_0bf7e4c7:
@@ -7372,7 +7372,7 @@ translate german pizza_23e1eb07:
 translate german pizza_533f0214:
 
     # b "What's that...? Oh, hold on, please. %(player_name)s, they have a special! Do you want to add an extra pizza to get a free ice cream?"
-    b "Wie bitte...? Oh, warten Sie kurz. %(player_name)s, Sie haben ein Spezialangebot! Willst du eine weitere Pizza dazugeben um ein gratis Eis zu bekommen?"
+    b "Wie bitte...? Oh, warten Sie kurz. %(player_name)s, Sie haben ein Spezialangebot! Willst du eine weitere Pizza dazugeben, um ein gratis Eis zu bekommen?"
 
 # game/script.rpy:4676
 translate german pizza_f036a76f:
@@ -7456,7 +7456,7 @@ translate german pizza_c328391f:
 translate german pizza_b0ab60ec:
 
     # b "I don't understand, but I believe you'll get better. I saw you thinking about doing it!"
-    b "Ich versteh's nicht, aber ich glaube an dich. Ich hab gesehen wie du darüber nachgedacht hast!"
+    b "Ich versteh's nicht, aber ich glaube an dich. Ich hab' gesehen wie du darüber nachgedacht hast!"
 
 # game/script.rpy:4700
 translate german pizza_a198a1ac:
@@ -7582,7 +7582,7 @@ translate german pizza_1ad9072d:
 translate german pizza_59fd91cf:
 
     # m "It's just not what I wanted... I'd only get my quadcheesy pizza if I aced my exams, and then my mom would make the call for me..."
-    m "Es ist nur nicht das was ich wollte... Ich bekam meine vierfachkäse Pizza immer wenn ich meine Prüfungen mit Bravour bestanden habe, meine Mutter hat sogar für mich den Anruf gemacht..."
+    m "Es ist nur nicht das, was ich wollte... Ich bekam meine vierfachkäse Pizza immer, wenn ich meine Prüfungen mit Bravour bestanden habe, meine Mutter hat sogar für mich den Anruf gemacht..."
 
 # game/script.rpy:4767
 translate german pizza_2a6d1d45:
@@ -7594,7 +7594,7 @@ translate german pizza_2a6d1d45:
 translate german pizza_5805ba1d:
 
     # m "Now I'm too stupid scared to call the pizza place and tell them they got it wrong!"
-    m "Jetzt bin ich zu übertrieben ängstlich um die Pizzeria anzurufen und zu sagen, dass die Bestellung falsch ist!"
+    m "Jetzt bin ich zu übertrieben ängstlich, um die Pizzeria anzurufen und zu sagen, dass die Bestellung falsch ist!"
 
 # game/script.rpy:4771
 translate german pizza_bf91708d:
@@ -7660,7 +7660,7 @@ translate german pizza_dd8e3adf:
 translate german pizza_f88f393f:
 
     # "You have to watch in dubs, since she can't read, but she doesn't know what she's missing anyway."
-    "Du musst mit Dubs schauen, weil sie nicht lesen kann, aber sie weiß sowieso nicht was sie verpasst."
+    "Du musst mit Dubs schauen, weil sie nicht lesen kann, aber sie weiß sowieso nicht, was sie verpasst."
 
 # game/script.rpy:4792
 translate german pizza_32f18306:
@@ -7678,7 +7678,7 @@ translate german pizza_5fa6dcf1:
 translate german pizza_fc663050:
 
     # "Only to fall into despair when they finally die in the most emotional way possible."
-    "Nur um in Verzweiflung zu fallen wenn sie schlussendlich auf die emotionalste Art überhaupt sterben."
+    "Nur um in Verzweiflung zu fallen, wenn sie schlussendlich auf die emotionalste Art überhaupt sterben."
 
 # game/script.rpy:4797
 translate german pizza_4ecd9df2:
@@ -7774,7 +7774,7 @@ translate german pizza_b551e295:
 translate german pizza_87e96bfd:
 
     # m "I'm sorry. I forgot about this part... if you're uncomfortable-"
-    m "Es tut mir leid. Ich hab diesen Teil vergessen... wenn es unangenehm ist-"
+    m "Es tut mir leid. Ich hab' diesen Teil vergessen... wenn es unangenehm ist-"
 
 # game/script.rpy:4818
 translate german pizza_d9a376da:
@@ -7798,7 +7798,7 @@ translate german pizza_f9eff4d4:
 translate german pizza_af9fdfcb:
 
     # m "Shit! What if someone heard you? I'll never live it down..."
-    m "Scheiße! Was ist wenn es jemand gehört hat? Das werd' ich nie wieder los..."
+    m "Scheiße! Was ist, wenn es jemand gehört hat? Das werd' ich nie wieder los..."
 
 # game/script.rpy:4826
 translate german pizza_b69eb05d:
@@ -8050,7 +8050,7 @@ translate german day1_watered_5_00a2537f:
 translate german day1_watered_5_83e8e43a:
 
     # m "Not my favourite place honestly. It's kind of uncomfortable..."
-    m "Nicht mein Lieblingsplatz um ehrlich zu sein. Es ist irgendwie unangenehm..."
+    m "Nicht mein Lieblingsplatz, um ehrlich zu sein. Es ist irgendwie unangenehm..."
 
 # game/script.rpy:4953
 translate german day1_watered_5_290c8148:
@@ -8176,7 +8176,7 @@ translate german day1_watered_5_c1cf14f5:
 translate german day1_watered_5_6583d789:
 
     # m "That's because when the sand gets wet, it compresses and... she's gone."
-    m "Das liegt daran, dass der Sand sich verdichtet wenn er nass wird, und... sie ist weg."
+    m "Das liegt daran, dass der Sand sich verdichtet, wenn er nass wird, und... sie ist weg."
 
 # game/script.rpy:5014
 translate german day1_watered_5_cc0ef34a:
@@ -8290,7 +8290,7 @@ translate german day1_watered_5_ce10a2cf:
 translate german day1_watered_5_bcda6fb7:
 
     # b "What must I do to convince you?"
-    b "Was muss ich tun um dich zu überzeugen?"
+    b "Was muss ich tun, um dich zu überzeugen?"
 
 # game/script.rpy:5051
 translate german day1_watered_5_a4e0a298:
@@ -8374,13 +8374,13 @@ translate german day1_watered_5_195f6aa6:
 translate german day1_watered_5_46816830:
 
     # "With her snuggled beside you, it feels like nothing is wrong anymore."
-    "Mit ihr an dich herangekuschelt, fühlt es sich so an als gäbe es keine Probleme mehr."
+    "Mit ihr an dich herangekuschelt, fühlt es sich so an, als gäbe es keine Probleme mehr."
 
 # game/script.rpy:5088
 translate german day1_watered_5_b1afa068:
 
     # "Glancing at her, you notice for the first time how her hair shifts from light to dark brown. Sometimes you forget that she isn't a human."
-    "Als du sie anblickst, bemerkst du zum ersten mal, dass ihre Haare von hellbraun zu dunkelbraun übergehen. Manchmal vergisst du, dass sie gar kein Mensch ist."
+    "Als du sie anblickst, bemerkst du zum ersten Mal, dass ihre Haare von hellbraun zu dunkelbraun übergehen. Manchmal vergisst du, dass sie gar kein Mensch ist."
 
 # game/script.rpy:5089
 translate german day1_watered_5_2a270f41:
@@ -8512,7 +8512,7 @@ translate german day1_watered_5_18110a8f:
 translate german day1_watered_5_fbef9168:
 
     # m "(She's so cute. So this is what it feels like... to like someone.)"
-    m "(Sie ist so süß. So fühlt es sich also an wenn... man jemanden mag.)"
+    m "(Sie ist so süß. So fühlt es sich also an, wenn... man jemanden mag.)"
 
 # game/script.rpy:5122
 translate german day1_watered_5_23296d76:
@@ -8776,7 +8776,7 @@ translate german day1_watered_5_0a08d0a4:
 translate german day1_watered_5_3d63e402:
 
     # b "Stop it. I know what you're doing."
-    b "Hör auf. Ich weiß was du tust."
+    b "Hör auf. Ich weiß, was du tust."
 
 # game/script.rpy:5260
 translate german day1_watered_5_35809d0d:
@@ -8872,7 +8872,7 @@ translate german day1_watered_5_80aa413a:
 translate german day1_watered_5_fe8a7d5b:
 
     # m "What if... I eat you tomorrow? And we can go out again?"
-    m "Was ist wenn... ich dich morgen esse? Und wir nochmal ausgehen können?"
+    m "Was ist, wenn... ich dich morgen esse? Und wir nochmal ausgehen können?"
 
 # game/script.rpy:5305
 translate german day1_watered_5_7a439786:
@@ -9040,7 +9040,7 @@ translate german day1_watered_5_f3571d21:
 translate german day1_watered_5_be6625fd:
 
     # b "You don't need to be sad! Like I said, I'm ready, I've had a good life, and that's what matters!"
-    b "Du musst nicht traurig sein! Wie ich gesagt habe, ich bin bereit. Ich hatte ein gutes Leben, und das ist alles was zählt!"
+    b "Du musst nicht traurig sein! Wie ich gesagt habe, ich bin bereit. Ich hatte ein gutes Leben, und das ist alles, was zählt!"
 
 # game/script.rpy:5355
 translate german day1_watered_5_d78f4ebf:
@@ -9280,7 +9280,7 @@ translate german submitandeat_5b3723ae:
 translate german submitandeat_0215187b:
 
     # b "I don't know what awaits me on the other side. It's scary, but thanks to you..."
-    b "Ich weiß nicht was mich auf der anderen Seite erwartet. Es ist gruselig, aber dank dir..."
+    b "Ich weiß nicht, was mich auf der anderen Seite erwartet. Es ist gruselig, aber dank dir..."
 
 # game/script.rpy:5537
 translate german submitandeat_f089c535:
@@ -9298,7 +9298,7 @@ translate german submitandeat_2d2d1c94:
 translate german submitandeat_16b30e54:
 
     # b "I'll wait while you... get it."
-    b "Ich warte während du... es holst."
+    b "Ich warte, während du... es holst."
 
 # game/script.rpy:5545
 translate german submitandeat_fc8f51a1:
@@ -9364,7 +9364,7 @@ translate german about_to_kill_button_b871d591:
 translate german now_killing_button_188af99e:
 
     # "As you position it against her neck, she places her hands on your wrist, stabilising you."
-    "Als du die Klinge an ihrem Hals anbringst, hält sie dein Handgelenk fest um dich zu stabilisieren."
+    "Als du die Klinge an ihrem Hals anbringst, hält sie dein Handgelenk fest, um dich zu stabilisieren."
 
 # game/script.rpy:5666
 translate german now_killing_button_3e2eea10:
@@ -9554,7 +9554,7 @@ translate german strings:
 
     # game/script.rpy:647
     old "{color=#4a3138}All the things you've cried over don't matter anymore."
-    new "{color=#4a3138}All die Dinge über die du geweint hast haben keine Bedeutung mehr."
+    new "{color=#4a3138}All die Dinge, über die du geweint hast, haben keine Bedeutung mehr."
 
     # game/script.rpy:651
     old "Even your {sc=2}failures{/sc}. They're gone, because you're gone."
@@ -9606,11 +9606,11 @@ translate german strings:
 
     # game/script.rpy:1016
     old "Laptop-chan is too busy downloading anime to care."
-    new "Laptop-chan ist zu beschäftigt Anime zu downloaden um Interesse zu zeigen."
+    new "Laptop-chan ist zu beschäftigt Anime zu downloaden, um Interesse zu zeigen."
 
     # game/script.rpy:1022
     old "It's lasted you since you were preteen, but you're not allowed a new one until it stops working."
-    new "Er hält schon seit dem du 10 Jahre alt warst, aber du darfst dir erst einen neuen kaufen wenn er nicht mehr funktioniert."
+    new "Er hält schon seit dem du 10 Jahre alt warst, aber du darfst dir erst einen neuen kaufen, wenn er nicht mehr funktioniert."
 
     # game/script.rpy:1026
     old "Blahaj believes in you!"
@@ -9622,7 +9622,7 @@ translate german strings:
 
     # game/script.rpy:1083
     old "Laptop-chan is STILL too busy downloading anime to care."
-    new "Laptop-chan ist IMMER NOCH zu beschäftigt Anime zu downloaden um Interesse zu zeigen."
+    new "Laptop-chan ist IMMER NOCH zu beschäftigt Anime zu downloaden, um Interesse zu zeigen."
 
     # game/script.rpy:1086
     old "Blahaj is so proud of you!"
@@ -9630,7 +9630,7 @@ translate german strings:
 
     # game/script.rpy:1089
     old "Noot Noot will be here for you when you need him."
-    new "Noot Noot wird hier sein wenn du ihn brauchst."
+    new "Noot Noot wird hier sein, wenn du ihn brauchst."
 
     # game/script.rpy:1113
     old "Weeks of self-hatred pass..."
@@ -9642,7 +9642,7 @@ translate german strings:
 
     # game/script.rpy:1150
     old "You can throw it out the window and pretend it never happened, or help it."
-    new "Du kannst ihn aus dem Fenster werfen und so tun als wäre das nie passiert, oder du hilfst ihm."
+    new "Du kannst ihn aus dem Fenster werfen und so tun, als wäre das nie passiert, oder du hilfst ihm."
 
     # game/script.rpy:1152
     old "NOPE. 1000 percent NOPE. GET OUT."
@@ -9826,7 +9826,7 @@ translate german strings:
 
     # game/script.rpy:3574
     old "You wait until he falls asleep..."
-    new "Du wartest bis er einschläft..."
+    new "Du wartest, bis er einschläft..."
 
     # game/script.rpy:3602
     old "The following scenes contain descriptions and depictions of self-harm, suicidal ideation, and dismemberment."
@@ -10042,7 +10042,7 @@ translate german strings:
 
     # game/script.rpy:4915
     old "You don't track how often you drink. Apparently, you're supposed to."
-    new "Du verfolgst nicht mit, wie oft du trinkst. Anscheinend, sollte man das."
+    new "Du verfolgst nicht mit, wie oft du trinkst. Anscheinend sollte man das."
 
     # game/script.rpy:5104
     old "Should you do it?"
@@ -10118,7 +10118,7 @@ translate german strings:
 
     # game/script.rpy:5478
     old "You're crying because you're scared {sc=2}{color=#871d17}she didn't forgive you."
-    new "Du weinst weil du Angst hast, {sc=2}{color=#871d17}dass sie dir nicht vergeben hat."
+    new "Du weinst, weil du Angst hast, {sc=2}{color=#871d17}dass sie dir nicht vergeben hat."
 
     # game/script.rpy:5486
     old "Button End 7: I'm sorry."
