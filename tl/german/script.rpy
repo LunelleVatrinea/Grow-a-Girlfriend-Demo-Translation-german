@@ -142,7 +142,7 @@ translate german start_53d72305:
 translate german start_64d91354:
 
     # m "I don't know."
-    m "Weiß ich nicht."
+    m "Keine Ahnung."
 
 # game/script.rpy:708
 translate german start_d2061e25:
@@ -340,7 +340,7 @@ translate german bought_button_f3321946:
 translate german bought_button_ddf0fa06:
 
     # na "I'm leaving it by the door. Good luck with your, um... experiment."
-    na "Ich lasse es bei der Tür. Viel Glück mit deinem, ehm... Experiment."
+    na "Ich lasse es bei der Tür. Viel Glück mit deinem, ähm... Experiment."
 
 # game/script.rpy:856
 translate german bought_button_fc54e591:
@@ -2194,7 +2194,7 @@ translate german about_b57d1211:
 translate german about_9ae05b76:
 
     # m "Uh... maybe that's a little too heavy..."
-    m "Ehm... vielleicht ist das ein bisschen zu ernst..."
+    m "Ähm... vielleicht ist das ein bisschen zu ernst..."
 
 # game/script.rpy:1804
 translate german about_bd196130:
@@ -2314,7 +2314,7 @@ translate german explain_6496054e:
 translate german explain_4ddb639f:
 
     # m "Maybe it won't be that bad, but it's still terrifying to disappear."
-    m "Vielleicht wird es nicht so schlimm sein, aber es ist immernoch angsteinflößend zu verschwinden."
+    m "Vielleicht wird es nicht so schlimm sein, aber es ist immer noch angsteinflößend zu verschwinden."
 
 # game/script.rpy:1842
 translate german explain_850ef128:
@@ -4792,7 +4792,7 @@ translate german park_ec7756c9:
 translate german park_40090d70:
 
     # "It's worrying. You don't even notice how people are looking at her outfit."
-    "Das ist beunruhigend. Du bemerkst nichtmal wie die Leute ihr Outfit anschauen."
+    "Das ist beunruhigend. Du bemerkst nicht mal wie die Leute ihr Outfit anschauen."
 
 # game/script.rpy:2937
 translate german park_a9b926bf:
@@ -5122,7 +5122,7 @@ translate german park_850ef128_2:
 translate german park_6e8001b9:
 
     # b "We can go home if you want... I've already played on the swing... and there aren't any dogs here either."
-    b "Wir können nach Hause gehen wenn du willst... ich habe schon auf der Schaukel gespielt... und Hunde sind hier auch keine."
+    b "Wir können nachhause gehen wenn du willst... ich habe schon auf der Schaukel gespielt... und Hunde sind hier auch keine."
 
 # game/script.rpy:3047
 translate german park_df5aa6b8:
@@ -5158,7 +5158,7 @@ translate german park_b583b956:
 translate german park_cd34375f:
 
     # "Battling nausea and guilt, you and Button silently walk home."
-    "Von Übelkeit und Schuld geplagt, gehen du und Button schweigend nach Hause."
+    "Von Übelkeit und Schuld geplagt, gehen du und Button schweigend nachhause."
 
 # game/script.rpy:3061
 translate german park_729e9fd7:
@@ -5428,7 +5428,7 @@ translate german park_91c24dca:
 translate german park_82b753f7:
 
     # m "Even so, how they're treated is still unethical in my opinion..."
-    m "Trotzdem, wie sie behandelt werden ist meiner Meinung nach immernoch unethisch..."
+    m "Trotzdem, wie sie behandelt werden ist meiner Meinung nach immer noch unethisch..."
 
 # game/script.rpy:3156
 translate german park_3b1c08a6:
@@ -5578,7 +5578,7 @@ translate german returnhome_657ab28f:
 translate german returnhome_caaad0aa:
 
     # "She slaps herself in the face. It doesn't hurt."
-    "Sie schlägt sich selber ins Gesicht. Es tut nicht weh."
+    "Sie schlägt sich selbst ins Gesicht. Es tut nicht weh."
 
 # game/script.rpy:3239
 translate german returnhome_815057e4:
@@ -5674,7 +5674,7 @@ translate german returnhome_a20eaade:
 translate german returnhome_74305302:
 
     # m "Ah, well... It's nice to see you smiling at least."
-    m "Nungut... Es ist zumindest wieder schön dich lächeln zu sehen."
+    m "Nun gut... Es ist zumindest wieder schön dich lächeln zu sehen."
 
 # game/script.rpy:3297
 translate german returnhome_9654d4ad:
@@ -6352,7 +6352,7 @@ translate german choosedo_850ef128_5:
 translate german choosedo_534214d1:
 
     # b "... I'm too scared to do it myself."
-    b "... Ich habe zu große Angst es selber zu tun."
+    b "... Ich habe zu große Angst es selbst zu tun."
 
 # game/script.rpy:3719
 translate german choosedo_55e1f41e:
@@ -6748,7 +6748,7 @@ translate german killher_20589e34:
 translate german killher_37aa2ed2:
 
     # m "AGAIN!? Can't you just... spray yourself?"
-    m "SCHON WIEDER!? Kannst du dich nicht... selber ansprühen?"
+    m "SCHON WIEDER!? Kannst du dich nicht... selbst ansprühen?"
 
 # game/script.rpy:4380
 translate german killher_30b26dd6:
@@ -7348,7 +7348,7 @@ translate german pizza_607e8961:
 translate german pizza_26677143:
 
     # "Just like I knew you would, you don't even try. You hand the phone over to Button so she can do it."
-    "Genau wie ich es gewusst habe, du versuchst es nichtmal. Du übergibst das Handy Button, damit sie das übernehmen kann."
+    "Genau wie ich es gewusst habe, du versuchst es nicht mal. Du übergibst das Handy Button, damit sie das übernehmen kann."
 
 # game/script.rpy:4669
 translate german pizza_58915475:
@@ -7414,7 +7414,7 @@ translate german pizza_4c0af5a3:
 translate german pizza_bec96a11:
 
     # b "It wasn't even as hard as your practice runs!"
-    b "Es war nichtmal so schwer wie deine Übungsdurchläufe!"
+    b "Es war nicht mal so schwer wie deine Übungsdurchläufe!"
 
 # game/script.rpy:4688
 translate german pizza_d3b08c4d:
@@ -7816,7 +7816,7 @@ translate german pizza_47ba7d94:
 translate german pizza_dd4c4f48:
 
     # m "Don't apologise. You don't have any malice. And I shouted at you again... sorry."
-    m "Entschuldige dich nicht. Du meintest es nicht so. Und ich hab' dich wiedermal angeschriehen... sorry."
+    m "Entschuldige dich nicht. Du meintest es nicht so. Und ich hab' dich wieder mal angeschriehen... sorry."
 
 # game/script.rpy:4832
 translate german pizza_f9f1ae91:
@@ -8092,7 +8092,7 @@ translate german day1_watered_5_d83a4b4b:
 translate german day1_watered_5_d186aebe:
 
     # m "Ah, fine. We'll stop by the shop and get you a swimsuit... and some ice cream for me too."
-    m "Ah, nagut. Wir machen einen Stop beim Geschäft und besorgen dir einen Badeanzug... und ein Eis für mich."
+    m "Ah, nagut. Wir machen einen Halt beim Geschäft und besorgen dir einen Badeanzug... und ein Eis für mich."
 
 # game/script.rpy:4963
 translate german day1_watered_5_4a8d7d8e:
@@ -9328,7 +9328,7 @@ translate german picked_up_bc_a67336f0:
 translate german picked_up_bc_dc9d6c70:
 
     # "You extend the blade, watching with dread as its gleaming, razor-thin neck hungrily emerges."
-    "Du fährst die Klinge aus, und betrachtest das glänzende, rassiermesser-scharfe Metall mit Furcht."
+    "Du fährst die Klinge aus, und betrachtest das glänzende, rasiermesserscharfe Metall mit Furcht."
 
 # game/script.rpy:5589
 translate german picked_up_bc_8034318e:
@@ -9502,7 +9502,7 @@ translate german now_killing_button_9720f7eb:
 translate german now_killing_button_07e2a043:
 
     # "You don't think you could ever go back to your old ways."
-    "Du glaubst nicht, dass du jemals wieder zu deinem alten Gewohnheiten zurückkehren kannst."
+    "Du glaubst nicht, dass du jemals wieder zu deinen alten Gewohnheiten zurückkehren kannst."
 
 # game/script.rpy:5738
 translate german now_killing_button_a3948f68:
@@ -9594,7 +9594,7 @@ translate german strings:
 
     # game/script.rpy:914
     old "Trust my gut."
-    new "Vetraue meinem Bauchgefühl."
+    new "Vertraue meinem Bauchgefühl."
 
     # game/script.rpy:979
     old "Button End 1: So mushroom for improvement."
@@ -9622,7 +9622,7 @@ translate german strings:
 
     # game/script.rpy:1083
     old "Laptop-chan is STILL too busy downloading anime to care."
-    new "Laptop-chan ist IMMERNOCH zu beschäftigt Anime zu downloaden um Interesse zu zeigen."
+    new "Laptop-chan ist IMMER NOCH zu beschäftigt Anime zu downloaden um Interesse zu zeigen."
 
     # game/script.rpy:1086
     old "Blahaj is so proud of you!"
@@ -9662,7 +9662,7 @@ translate german strings:
 
     # game/script.rpy:1353
     old "Still coughing, Button shakes her head."
-    new "Immernoch hustend, schüttelt Button ihren Kopf."
+    new "Immer noch hustend, schüttelt Button ihren Kopf."
 
     # game/script.rpy:1426
     old "Blahaj senses a new potential friend!"
@@ -9802,7 +9802,7 @@ translate german strings:
 
     # game/script.rpy:2694
     old "With Button in your arms, you don't even realise it, but you've fallen asleep..."
-    new "Mit Button in deinen Armen, bemerkst du nichtmal, dass du eingeschlafen bist..."
+    new "Mit Button in deinen Armen, bemerkst du nicht mal, dass du eingeschlafen bist..."
 
     # game/script.rpy:2723
     old "At some point, without realising it, your eyes drift closed..."
@@ -10010,7 +10010,7 @@ translate german strings:
 
     # game/script.rpy:4300
     old "Button End 8: Morel dilemma."
-    new "Button Ende 8: Moralisches Dilema."
+    new "Button Ende 8: Moralisches Dilemma."
 
     # game/script.rpy:4393
     old "Those wide eyes are always watching for anything inappropriate."
@@ -10114,7 +10114,7 @@ translate german strings:
 
     # game/script.rpy:5475
     old "You're not even crying because she's {sc=1}dead."
-    new "Du weinst nichtmal obwohl sie {sc=1}tot ist."
+    new "Du weinst nicht mal, obwohl sie {sc=1}tot ist."
 
     # game/script.rpy:5478
     old "You're crying because you're scared {sc=2}{color=#871d17}she didn't forgive you."
