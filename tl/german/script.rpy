@@ -262,7 +262,7 @@ translate german bought_red_841bb29e:
 translate german bought_red_e8a503db:
 
     # "Too bad they're out of stock, huh?"
-    "Schade, dass sie ausverkaunft sind, nicht wahr?"
+    "Schade, dass sie ausverkauft sind, nicht wahr?"
 
 # game/script.rpy:793
 translate german x_2fafdade:
@@ -4564,7 +4564,7 @@ translate german day_2_c7e912db:
 translate german day_2_75ac9129:
 
     # b "Yeah..."
-    b "Yeah..."
+    b "Ja..."
 
 # game/script.rpy:2814
 translate german day_2_6e38d58b:
@@ -4756,7 +4756,7 @@ translate german day1_watered_3_4d446898:
 translate german day1_watered_3_81169721:
 
     # m "You make some scary expressions. Damn."
-    m "Du machst echt grusselige Gesichtsausdrücke. Wow."
+    m "Du machst echt gruselige Gesichtsausdrücke. Wow."
 
 # game/script.rpy:2929
 translate german park_48f2c0c2:
@@ -5398,7 +5398,7 @@ translate german park_ac1b1231:
 translate german park_1db35d6d:
 
     # m "Don't accuse me of lying."
-    m "Beschuldige mich nicht des lügens."
+    m "Beschuldige mich nicht des Lügens."
 
 # game/script.rpy:3146
 translate german park_412fcc80:
@@ -5452,7 +5452,7 @@ translate german park_2257ccba:
 translate german park_e7861108:
 
     # "You read a comic on your phone, enjoying the sunlight and the sounds of play, until Button tells you she's ready to go home."
-    "Du liest einen Comik auf deinem Handy, genießt das Sonnenlicht und die Klänge des spielens, bis Button dir sagt, dass sie bereit ist nach hause zu gehen."
+    "Du liest einen Comik auf deinem Handy, genießt das Sonnenlicht und die Klänge des Spielens, bis Button dir sagt, dass sie bereit ist nachhause zu gehen."
 
 # game/script.rpy:3199
 translate german returnhome_3384845e:
@@ -5476,7 +5476,7 @@ translate german returnhome_0d05bb51:
 translate german returnhome_0dbfa178:
 
     # b "Mm."
-    b "Mm"
+    b "Mm."
 
 # game/script.rpy:3209
 translate german returnhome_a20cefa7:
@@ -5938,7 +5938,7 @@ translate german choosedo_09f4efc0:
 translate german choosedo_c69d37da:
 
     # bna "Why are you believing him? When you know he's just doing it because he feels bad?"
-    bna "Wieso glaubst du ihm? Wenn du genau weißt, er macht das nur weil er ein schlechtes Gewissen hat?"
+    bna "Wieso glaubst du ihm? Wenn du genau weißt, er macht das nur, weil er ein schlechtes Gewissen hat?"
 
 # game/script.rpy:3520
 translate german choosedo_bebd7ec6:
@@ -6790,7 +6790,7 @@ translate german day1_watered_4_854c2cda:
 translate german day1_watered_4_72842bc8:
 
     # m "Sorry retracted."
-    m "Entschuldigung zurüchgenommen."
+    m "Entschuldigung zurückgenommen."
 
 # game/script.rpy:4427
 translate german day1_watered_4_f482297e:
@@ -6940,7 +6940,7 @@ translate german day1_watered_4_df95931a:
 translate german day1_watered_4_24f52875:
 
     # "The rest you sealed in plastic bags to use over the next few days."
-    "Denn Rest verschließt du in Plastikbeuteln für die nächsten paar Tage."
+    "Den Rest verschließt du in Plastikbeuteln, für die nächsten paar Tage."
 
 # game/script.rpy:4486
 translate german day1_watered_4_4b25cf15:
@@ -7180,7 +7180,7 @@ translate german pizza_e3caa20f:
 translate german pizza_639924ad:
 
     # m "Well... I've been craving a pizza for a while... I haven't had one since I lived with my mom."
-    m "Nun... ich hab' schon sei einer Weile Lust auf Pizza... ich hatte keine mehr seitdem ich mit meiner Mutter gelebt habe."
+    m "Nun... ich hab' schon seit einer Weile Lust auf Pizza... ich hatte keine mehr, seitdem ich mit meiner Mutter gelebt habe."
 
 # game/script.rpy:4615
 translate german pizza_16bfe7e5:
@@ -7204,7 +7204,7 @@ translate german pizza_5451b25f:
 translate german pizza_6804d82f:
 
     # m "Sometimes I forget my order or address or how to even talk because I'm so nervous, or they can't hear me..."
-    m "Manchmal vergesse ich sogar meine Bestellung oder Adresse oder wie man überhaupt redet weil ich so nervös bin, oder sie hören micht nicht..."
+    m "Manchmal vergesse ich sogar meine Bestellung oder Adresse, oder wie man überhaupt redet weil ich so nervös bin, oder sie hören micht nicht..."
 
 # game/script.rpy:4621
 translate german pizza_cf947c15:
@@ -7258,7 +7258,7 @@ translate german pizza_3088ec54:
 translate german pizza_9d4ffe9e:
 
     # m "But... how will you remember the address and the name of the pizzas I want? What if you forget?"
-    m "Aber... wie willst du dir die Adresse und den Namen der Pizzen merken die ich will? Was ist wenn du's vergisst?"
+    m "Aber... wie willst du dir die Adresse und den Namen der Pizzen merken, die ich will? Was ist wenn du's vergisst?"
 
 # game/script.rpy:4637
 translate german pizza_16036d54:
@@ -7318,7 +7318,7 @@ translate german pizza_0bf7e4c7:
 translate german pizza_17cfeaa2:
 
     # "You add in potential threats such as a bad connection, long waiting time, non-availability of your desired pizza..."
-    "Du baust mögliche Komplikationen ein, wie schlechte Verbindung, lange Wartezeit, nicht verfügbarkeit deiner Wunschpizza..."
+    "Du baust mögliche Komplikationen ein, wie schlechte Verbindung, lange Wartezeit, nicht-Verfügbarkeit deiner Wunschpizza..."
 
 # game/script.rpy:4658
 translate german pizza_2da08ea7:
@@ -7330,7 +7330,7 @@ translate german pizza_2da08ea7:
 translate german pizza_16ab3f8b:
 
     # "For a second, you think maybe YOU can do it afterall. You'd have Button at your side to support you!"
-    "Für eine Sekunde glaubst du, dass DU es auch schaffen kannst. Du hättest immerhin Button an deiner Seite um dich zu unterstützen!"
+    "Für eine Sekunde glaubst du, dass DU es auch schaffen kannst. Du hättest immerhin Button an deiner Seite, um dich zu unterstützen!"
 
 # game/script.rpy:4661
 translate german pizza_edefac24:
@@ -7372,7 +7372,7 @@ translate german pizza_23e1eb07:
 translate german pizza_533f0214:
 
     # b "What's that...? Oh, hold on, please. %(player_name)s, they have a special! Do you want to add an extra pizza to get a free ice cream?"
-    b "Wie bitte...? Oh warten Sie kurz. %(player_name)s, Sie haben ein Spezialangebot! Willst du eine weitere Pizza dazugeben um ein gratis Eis zu bekommen?"
+    b "Wie bitte...? Oh, warten Sie kurz. %(player_name)s, Sie haben ein Spezialangebot! Willst du eine weitere Pizza dazugeben um ein gratis Eis zu bekommen?"
 
 # game/script.rpy:4676
 translate german pizza_f036a76f:
@@ -7462,7 +7462,7 @@ translate german pizza_b0ab60ec:
 translate german pizza_a198a1ac:
 
     # m "Yeah, maybe next time my instinct won't be to throw my phone across the room."
-    m "Ja, vielleicht ist mein Instink beim nächsten Mal nicht, mein Handy durch den Raum zu schleudern."
+    m "Ja, vielleicht ist mein Instinkt beim nächsten Mal nicht, mein Handy durch den Raum zu schleudern."
 
 # game/script.rpy:4711
 translate german pizza_c321ef8a:
@@ -7702,7 +7702,7 @@ translate german pizza_c6303090:
 translate german pizza_4bd5e1bb:
 
     # "How long has it been since you've felt so at peace?"
-    "Wie lange ist es jetzt schon her seitdem du dich so zufrieden gefühlt hast?"
+    "Wie lange ist es jetzt schon her, seitdem du dich so zufrieden gefühlt hast?"
 
 # game/script.rpy:4801
 translate german pizza_ff4384fd:
@@ -7732,7 +7732,7 @@ translate german pizza_850ef128:
 translate german pizza_6e5dde37:
 
     # m "(I forgot about this part.)"
-    m "(I hab' diesen Teil vergessen.)"
+    m "(Ich hab' diesen Teil vergessen.)"
 
 # game/script.rpy:4807
 translate german pizza_8fa5854a:
@@ -8506,7 +8506,7 @@ translate german day1_watered_5_f35a6b0c:
 translate german day1_watered_5_18110a8f:
 
     # "Her enthusiasm makes you smile."
-    "Ihr Enthussiasmus bringt dich zum lächeln."
+    "Ihr Enthusiasmus bringt dich zum lächeln."
 
 # game/script.rpy:5121
 translate german day1_watered_5_fbef9168:
@@ -9986,7 +9986,7 @@ translate german strings:
 
     # game/script.rpy:4277
     old "Now you understand how it feels to be surrounded by sadness. Why people stopped talking to you."
-    new "Jetzt verstehst du wie es sich anfühlt von Trauer umzingelt zu sein. Wieso die Leute aufgehört haben mit dir zu reden."
+    new "Jetzt verstehst du wie es sich anfühlt von Trauer umzingelt zu sein. Wieso die Leute aufgehört haben, mit dir zu reden."
 
     # game/script.rpy:4280
     old "Because in a horrible way, you feel..."
