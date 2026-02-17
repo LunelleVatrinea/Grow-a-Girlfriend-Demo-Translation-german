@@ -4720,7 +4720,7 @@ translate german day1_watered_3_53dd7745:
 translate german day1_watered_3_b2a5d70e:
 
     # b "I've been waiting all night, so we're going out!"
-    b "Ich habe die ganze Nacht gewartet, also gehen wir rauß!"
+    b "Ich habe die ganze Nacht gewartet, also gehen wir raus!"
 
 # game/script.rpy:2894
 translate german day1_watered_3_7f118413:
@@ -4972,13 +4972,13 @@ translate german park_b381d2b2:
 translate german park_fb9d4ce9:
 
     # "Her mood instantly lifts."
-    "Ihre Laune steigt augenblicklich in die Höh."
+    "Ihre Laune steigt augenblicklich in die Höhe."
 
 # game/script.rpy:2997
 translate german park_0c1787fa:
 
     # b "Ah! It's...! It's kind of scary, but fun!"
-    b "Ah! Es ist... Es ist angsteinflössend, aber lustig!"
+    b "Ah! Es ist... Es ist angsteinflößend, aber lustig!"
 
 # game/script.rpy:2998
 translate german park_bef58a73:
@@ -5452,13 +5452,13 @@ translate german park_2257ccba:
 translate german park_e7861108:
 
     # "You read a comic on your phone, enjoying the sunlight and the sounds of play, until Button tells you she's ready to go home."
-    "Du liest einen Comik auf deinem Handy, genießt das Sonnenlicht und die Klänge des Spielens, bis Button dir sagt, dass sie bereit ist nachhause zu gehen."
+    "Du liest einen Comic auf deinem Handy, genießt das Sonnenlicht und die Klänge des Spielens, bis Button dir sagt, dass sie bereit ist nachhause zu gehen."
 
 # game/script.rpy:3199
 translate german returnhome_3384845e:
 
     # "As soon as you enter the room, you head over to your desk, take out a boxcutter from your drawer..."
-    "Sobalt du den Raum betrittst, gehst du zu deinem Schreibtisch und nimmst ein Teppichmesser aus deiner Schublade..."
+    "Sobald du den Raum betrittst, gehst du zu deinem Schreibtisch und nimmst ein Teppichmesser aus deiner Schublade..."
 
 # game/script.rpy:3204
 translate german returnhome_3ddd5d20:
@@ -7042,7 +7042,7 @@ translate german day1_watered_4_3d9e6ca8:
 translate german day1_watered_4_850ff925:
 
     # m "I admit it. You're more fun to have around than I thought."
-    m "Ich gebe zu. Mit dir Zeit zu verbingen macht mehr Spaß als gedacht."
+    m "Ich gebe zu. Mit dir Zeit zu verbringen macht mehr Spaß als gedacht."
 
 # game/script.rpy:4564
 translate german day1_watered_4_dc887f39:
@@ -7204,7 +7204,7 @@ translate german pizza_5451b25f:
 translate german pizza_6804d82f:
 
     # m "Sometimes I forget my order or address or how to even talk because I'm so nervous, or they can't hear me..."
-    m "Manchmal vergesse ich sogar meine Bestellung oder Adresse, oder wie man überhaupt redet weil ich so nervös bin, oder sie hören micht nicht..."
+    m "Manchmal vergesse ich sogar meine Bestellung oder Adresse, oder wie man überhaupt redet weil ich so nervös bin, oder sie hören mich nicht..."
 
 # game/script.rpy:4621
 translate german pizza_cf947c15:
@@ -8080,7 +8080,7 @@ translate german day1_watered_5_26ce1f94:
 translate german day1_watered_5_480d8b21:
 
     # "Normally you would say no."
-    "Normalerweiße würdest du nein sagen."
+    "Normalerweise würdest du nein sagen."
 
 # game/script.rpy:4959
 translate german day1_watered_5_d83a4b4b:
@@ -9982,7 +9982,7 @@ translate german strings:
 
     # game/script.rpy:4274
     old "You don't know why this had to happen. But it's over. It's over."
-    new "Du weist nicht wieso das passieren musste. Aber es ist vorbei. Es ist vorbei."
+    new "Du weißt nicht wieso das passieren musste. Aber es ist vorbei. Es ist vorbei."
 
     # game/script.rpy:4277
     old "Now you understand how it feels to be surrounded by sadness. Why people stopped talking to you."
@@ -9998,7 +9998,7 @@ translate german strings:
 
     # game/script.rpy:4286
     old "It's a despicable kind of relief."
-    new "Es ist eine abschäuliche Art von Erleichterung."
+    new "Es ist eine abscheuliche Art von Erleichterung."
 
     # game/script.rpy:4289
     old "You're glad to be alone again."
